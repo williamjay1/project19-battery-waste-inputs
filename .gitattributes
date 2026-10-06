@@ -1,0 +1,2 @@
+# Keep frozen source-qualified data and replay fingerprints byte-identical.
+* -text

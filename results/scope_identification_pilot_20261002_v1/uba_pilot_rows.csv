@@ -1,0 +1,11 @@
+﻿origin,destination,year,low_code,description,basel_code,r_code,quantity_t,page,raw_line,evidence_grade
+BE,DE,2023,160601,Bleibatterien,A1160,R4,1042.0,39,160601* Bleibatterien A1160 Belgien R4 Rückgewinnung von Metallen/Metallverb. 1042,national_administrative_report
+NL,DE,2023,160601,Bleibatterien,A1160,R4,28565.0,39,160601* Bleibatterien A1160 Niederlande R4 Rückgewinnung von Metallen/Metallverb. 28565,national_administrative_report
+BE,DE,2023,160602,Ni-Cd-Batterien,A1170,R4,225.0,39,160602* Ni-Cd-Batterien A1170 Belgien R4 Rückgewinnung von Metallen/Metallverb. 225,national_administrative_report
+NL,DE,2023,160602,Ni-Cd-Batterien,A1170,R4,263.0,39,160602* Ni-Cd-Batterien A1170 Niederlande R4 Rückgewinnung von Metallen/Metallverb. 263,national_administrative_report
+BE,DE,2023,160603,Quecksilber enthaltende Batterien,A1030,R12,21.0,39,160603* Quecksilber enthaltende Batterien A1030 Belgien R12 Austausch von Abfällen zur Verwertung 21,national_administrative_report
+BE,DE,2023,200133,Batterien und Akkumulatoren aus Siedlungsabfällen,A1170,R12,52.0,62,200133* Batterien und Akkumulatoren aus Siedlungsabfällen A1170 Belgien R12 Austausch von Abfällen zur Verwertung 52,national_administrative_report
+BE,DE,2023,200133,Batterien und Akkumulatoren aus Siedlungsabfällen,A1170,R4,16.0,62,200133* Batterien und Akkumulatoren aus Siedlungsabfällen A1170 Belgien R4 Rückgewinnung von Metallen/Metallverb. 16,national_administrative_report
+NL,DE,2023,200133,Batterien und Akkumulatoren aus Siedlungsabfällen,A1170,R12,160.0,63,200133* Batterien und Akkumulatoren aus Siedlungsabfällen A1170 Niederlande R12 Austausch von Abfällen zur Verwertung 160,national_administrative_report
+NL,DE,2023,200133,Batterien und Akkumulatoren aus Siedlungsabfällen,A1170,R13,18.0,63,200133* Batterien und Akkumulatoren aus Siedlungsabfällen A1170 Niederlande R13 Ansammeln von Abfällen zur Verwertung 18,national_administrative_report
+NL,DE,2023,200133,Batterien und Akkumulatoren aus Siedlungsabfällen,A1170,R4,1517.0,63,200133* Batterien und Akkumulatoren aus Siedlungsabfällen A1170 Niederlande R4 Rückgewinnung von Metallen/Metallverb. 1517,national_administrative_report

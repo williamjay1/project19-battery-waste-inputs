@@ -1,0 +1,15 @@
+{
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "platform": "win32",
+  "top_level_versions": {
+    "beautifulsoup4": "4.15.0",
+    "pdfplumber": "0.11.10",
+    "pytest": "9.1.1",
+    "matplotlib": "3.11.1",
+    "numpy": "2.5.1",
+    "SciencePlots": "2.2.2",
+    "Pillow": "12.3.0",
+    "pypdf": "6.14.2"
+  },
+  "scope": "Observed local environment; no universal installation/platform guarantee"
+}

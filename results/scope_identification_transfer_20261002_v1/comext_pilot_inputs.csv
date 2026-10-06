@@ -1,0 +1,9 @@
+﻿origin,scope,view,reported_t,records,availability,target_lithium_share_lower,target_lithium_share_upper,EV_specific,reported_R4_identified
+BE,six_CN8,export,6.886,1,observed,0,1,False,False
+BE,six_CN8,import,,0,unavailable_not_zero,0,1,False,False
+BE,spent_accumulators_only,export,6.886,1,observed,0,1,False,False
+BE,spent_accumulators_only,import,,0,unavailable_not_zero,0,1,False,False
+NL,six_CN8,export,8761.666000000001,2,observed,0,1,False,False
+NL,six_CN8,import,730.2180000000001,2,observed,0,1,False,False
+NL,spent_accumulators_only,export,,0,unavailable_not_zero,0,1,False,False
+NL,spent_accumulators_only,import,660.0010000000001,1,observed,0,1,False,False

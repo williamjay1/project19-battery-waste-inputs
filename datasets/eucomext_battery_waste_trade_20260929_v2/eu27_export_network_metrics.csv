@@ -1,0 +1,25 @@
+﻿product,product_description,year,reported_positive_routes,origin_countries_with_positive_records,destination_countries_with_positive_records,declared_mass_t,declared_trade_value_eur,top_route_mass_share,route_hhi,origin_hhi,potential_directed_pairs_27x26,reported_route_fraction_not_coverage
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,7,4,5,807.4,329314.0,0.57566,0.388542,0.515289,702,0.009972
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,14,8,8,1524.781,544749.0,0.767728,0.599724,0.736774,702,0.019943
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,8,3,5,2221.489,1121180.0,0.358239,0.285879,0.85341,702,0.011396
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,10,3,5,3974.579,1928134.0,0.592713,0.391958,0.749046,702,0.014245
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,37,6,26,8005.546,11617202.0,0.638477,0.456552,0.789456,702,0.052707
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,23,6,18,10222.542,10386873.0,0.709804,0.523055,0.780841,702,0.032764
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,13,8,9,10694.787,3921598.0,0.513788,0.400642,0.886545,702,0.018519
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,13,5,8,11151.878,5136426.0,0.717548,0.538871,0.878393,702,0.018519
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,1,1,1,0.004,231.0,1.0,1.0,1.0,702,0.001425
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,4,4,4,1.004,2353.0,0.996016,0.992054,0.992054,702,0.005698
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,6,4,4,124.615,282435.0,0.798483,0.67626,0.999406,702,0.008547
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,6,3,5,216.935,650557.0,0.830793,0.704507,0.828478,702,0.008547
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,12,6,10,4646.648,12273461.0,0.695355,0.520105,0.530385,702,0.017094
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,28,6,22,5918.428,6513323.0,0.696972,0.518441,0.592296,702,0.039886
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,31,5,25,9460.416,13082663.0,0.86493,0.752025,0.943412,702,0.04416
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,39,9,27,8874.939,16028931.0,0.68393,0.484861,0.79395,702,0.055556
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,23,6,17,1329.309,1019140.0,0.799751,0.649646,0.686835,702,0.032764
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,7,5,6,526.54,387911.0,0.386856,0.250836,0.458693,702,0.009972
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,4,3,4,196.101,178152.0,0.855967,0.744102,0.906617,702,0.005698
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,12,6,8,645.648,970590.0,0.857947,0.742673,0.743677,702,0.017094
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,46,9,27,5271.312,6904659.0,0.289992,0.165608,0.414009,702,0.065527
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,40,10,27,4239.381,5541114.0,0.281096,0.173541,0.474889,702,0.05698
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,43,11,27,3353.083,7126976.0,0.311889,0.164172,0.385149,702,0.061254
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,37,8,25,1915.071,4380256.0,0.549072,0.343133,0.396872,702,0.052707

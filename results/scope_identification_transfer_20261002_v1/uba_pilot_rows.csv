@@ -1,0 +1,11 @@
+﻿origin,destination,year,low_code,description,basel_code,r_code,quantity_t,page,raw_line,evidence_grade
+BE,DE,2024,160601,Bleibatterien,A1160,R4,227.0,39,160601* Bleibatterien A1160 Belgien R4 Rückgewinnung von Metallen/Metallverb. 227,national_administrative_report
+NL,DE,2024,160601,Bleibatterien,A1160,R12,1081.0,39,160601* Bleibatterien A1160 Niederlande R12 Austausch von Abfällen zur Verwertung 1081,national_administrative_report
+NL,DE,2024,160601,Bleibatterien,A1160,R4,39036.0,39,160601* Bleibatterien A1160 Niederlande R4 Rückgewinnung von Metallen/Metallverb. 39036,national_administrative_report
+BE,DE,2024,160602,Ni-Cd-Batterien,A1170,R4,169.0,39,160602* Ni-Cd-Batterien A1170 Belgien R4 Rückgewinnung von Metallen/Metallverb. 169,national_administrative_report
+NL,DE,2024,160602,Ni-Cd-Batterien,A1170,R4,131.0,39,160602* Ni-Cd-Batterien A1170 Niederlande R4 Rückgewinnung von Metallen/Metallverb. 131,national_administrative_report
+NL,DE,2024,160603,Quecksilber enthaltende Batterien,A1030,R4,42.0,40,160603* Quecksilber enthaltende Batterien A1030 Niederlande R4 Rückgewinnung von Metallen/Metallverb. 42,national_administrative_report
+BE,DE,2024,200133,Batterien und Akkumulatoren aus Siedlungsabfällen,A1170,R12,54.0,62,200133* Batterien und Akkumulatoren aus Siedlungsabfällen A1170 Belgien R12 Austausch von Abfällen zur Verwertung 54,national_administrative_report
+NL,DE,2024,200133,Batterien und Akkumulatoren aus Siedlungsabfällen,A1170,R12,546.0,62,200133* Batterien und Akkumulatoren aus Siedlungsabfällen A1170 Niederlande R12 Austausch von Abfällen zur Verwertung 546,national_administrative_report
+NL,DE,2024,200133,Batterien und Akkumulatoren aus Siedlungsabfällen,A1170,R13,165.0,63,200133* Batterien und Akkumulatoren aus Siedlungsabfällen A1170 Niederlande R13 Ansammeln von Abfällen zur Verwertung 165,national_administrative_report
+NL,DE,2024,200133,Batterien und Akkumulatoren aus Siedlungsabfällen,A1170,R4,2178.0,63,200133* Batterien und Akkumulatoren aus Siedlungsabfällen A1170 Niederlande R4 Rückgewinnung von Metallen/Metallverb. 2178,national_administrative_report

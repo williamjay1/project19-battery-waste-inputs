@@ -1,0 +1,9 @@
+# Observed top-level versions; not a cross-platform transitive lock.
+beautifulsoup4==4.15.0
+pdfplumber==0.11.10
+pytest==9.1.1
+matplotlib==3.11.1
+numpy==2.5.1
+SciencePlots==2.2.2
+Pillow==12.3.0
+pypdf==6.14.2

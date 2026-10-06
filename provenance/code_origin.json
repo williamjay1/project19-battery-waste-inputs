@@ -1,0 +1,53 @@
+{
+  "unmodified_project_modules": [
+    "battery_scope_identification",
+    "scope_decision_certificate",
+    "inspect_public_notification_register",
+    "capture_basel_readonly_table5",
+    "verify_scope_manuscript",
+    "verify_comext_raw_extraction",
+    "comext_trade_audit",
+    "comext_network_quality_analysis",
+    "comext_decision_input_analysis",
+    "comext_temporal_priority_validation",
+    "comext_information_check_diagnostics",
+    "comext_vintage_comparison"
+  ],
+  "project_test_modules": [
+    "battery_scope_identification",
+    "comext_trade_audit",
+    "verify_comext_raw_extraction",
+    "comext_network_quality_analysis",
+    "comext_decision_input_analysis",
+    "comext_information_check_diagnostics",
+    "comext_vintage_comparison"
+  ],
+  "original_module_sha256": {
+    "battery_scope_identification": "0cdf22402878fb41d4b60f7e4a2862322fe54ebf517dbc97a125c440bf3d539a",
+    "scope_decision_certificate": "e7e01583808255051e73cc8ce7a110c4e85a5f9f73e93f64e38fdd182200a3bb",
+    "inspect_public_notification_register": "2a5d05e9209ffd47ef085e7e5c24f773051eb744dd7f76037055b6507d24a8f1",
+    "capture_basel_readonly_table5": "a8d797d4c6c9e713371a73957cea2b5b211c012341e3a60818c6e5410167b537",
+    "verify_scope_manuscript": "d29f135cf8728d1a1671e2c23810f1e4d4249d934f97c641e94f4028bf193d3e",
+    "verify_comext_raw_extraction": "20a768008ff5c0d49624fb528723597520dae5460382364b514e7587af0ebf2f",
+    "comext_trade_audit": "b3aeb92e0f8b365e1589c717ee0819b764d48e533592554c41ab0e438dde010f",
+    "comext_network_quality_analysis": "3b3602823c3d2f26d43355458bff2e3086de2089ef6d72ddb6f836b2f92396e3",
+    "comext_decision_input_analysis": "b05b55b5a611b3726b098a3df4f1ca63548e91df301cbf93817249716c3b69e5",
+    "comext_temporal_priority_validation": "418650c27c58fe09eacab4c9cc2840b91b80b835fbf38ff96d3eee3c5585f12b",
+    "comext_information_check_diagnostics": "37c6860687190f7d6b0d75a436561d669be42422b7988526da9610f8c4ab6a04",
+    "comext_vintage_comparison": "58776ad25e264b063ec1dd393874fa7e22bb0493b06fae67da984c95aabab409"
+  },
+  "graphics_parent_sha256": "7cc94417ce83a9aafc19ecfb0e108c451952dbebf485a91dcb4d97b3c6909d5c",
+  "graphics_adaptation": "four original functions, explicit CLI paths, portable fonts; no manuscript/tables or new results",
+  "external_tools": [
+    {
+      "repository": "https://github.com/Yuan1z0825/nature-skills",
+      "commit": "6655831b8270e0bb48cbcdec22220a56c561de58",
+      "license": "Apache-2.0"
+    },
+    {
+      "repository": "https://github.com/garrettj403/SciencePlots",
+      "commit": "b9b16959570bd2fbc9ff5118bacc423c3bddd592",
+      "license": "MIT"
+    }
+  ]
+}

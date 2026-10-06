@@ -1,0 +1,1055 @@
+{
+  "release_kind": "github_source_snapshot_not_tagged_or_zenodo_deposited",
+  "created_utc": "2026-10-06T06:20:47.236868+00:00",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 84,
+      "sha256": "2a7357ee323feeb22ca6c790e5fb206470a814207ab850ecbe83bf7f495026b6",
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "2acf67952aeb84a0f720c5313b072db3fe050479decf5124dbbb5861d2088e7a",
+      "bytes": 166,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": ".zenodo.json",
+      "sha256": "fb0013d978fa20996181b9766226a8ee5c2ea6a22273226541118f07e43f9cbb",
+      "bytes": 1162,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "AI_USE.md",
+      "sha256": "0b48560b4d614d0a4f0e4efd3a6ec0847ad9e5a3a537a4f7c882b48015a78440",
+      "bytes": 1325,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "AUTHORSHIP.md",
+      "sha256": "d932dc22e80dfad4b9a62472bb08560657faf9707de90b9473fb50a44675b022",
+      "bytes": 1162,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "CITATION.md",
+      "sha256": "e327c1b33c5ba638616a78707e0e0722d39fd6ba7474edd1522522e146b6c864",
+      "bytes": 1740,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "CONTRIBUTORS.json",
+      "sha256": "c6b56f52293f97c70f55007f87ba147e64b5c84624ed96186b81018ce018668b",
+      "bytes": 38,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "DATA_DICTIONARY.md",
+      "sha256": "8e5f7e7f5eeabf67dabd5f01fd610a33e95c290b0897d527cdcfea9ce0b9d3af",
+      "bytes": 3616,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "DATA_REUSE.md",
+      "sha256": "6401f0d4d2b8050762336be1f452ee7c0a61cea3c9873baa0df3f0e002ab46c0",
+      "bytes": 3747,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "GITHUB_PUBLICATION.md",
+      "bytes": 1600,
+      "sha256": "8a7a275c5f246144b98e30f9fdfa17edea125bb17da303d2a37e11f017265017",
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "fe1083136a8ccbd622eca052075c446b95ddbea0c9484107919108a1dec94a6b",
+      "bytes": 1068,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "README.md",
+      "sha256": "b1dd66e0f7c368a4507fe475d440daa8d87b09fa29a55a14c979c4be3954cae9",
+      "bytes": 6211,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "RELEASE_AUDIT.md",
+      "sha256": "30a1aa8aa95b1a3b2572a306787d0baf7ed82412b58493bb79253f3ba206d725",
+      "bytes": 3432,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "RELEASE_METADATA_STATUS.json",
+      "sha256": "02ea7cbb19a4caec6a6d0cdc2703a72071d3e878a36d553460c30108554b93e6",
+      "bytes": 806,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "REPRODUCING.md",
+      "sha256": "cbca7ae66cda0dddd85c3effa82ecc2ce3822c54dbfec53a7a8717428113352b",
+      "bytes": 4166,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "SCIENTIFIC_BOUNDARY.md",
+      "sha256": "e8417ddb8020ee3143fdb91fd5ff332d072ebec3fe825b84e68e334381b51fd4",
+      "bytes": 2023,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "13df253a1a176b8f7f0f598ba2185cfda7e3158ad2cca17008193a88572e77ad",
+      "bytes": 1271,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "ZENODO_HANDOFF_CN.md",
+      "sha256": "57ec6bab7a62710ec84cb0b3ff0a42bbb55728110ab7b9df3769891e76593733",
+      "bytes": 5302,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "datasets/README.md",
+      "sha256": "fc2837c8470c504bd2b8f2ab7e6dded63acb79ebfa8fe6dc62afeb680d711b6b",
+      "bytes": 141,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "datasets/eucomext_battery_waste_trade_20260929_v2/cn8_codebook.csv",
+      "sha256": "cc3b41322ee513b18f12edfd4ed6b3e3b45e32be46520a6574a1652f077e1af2",
+      "bytes": 2827,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "eurostat_product_label",
+        "product_state_group",
+        "declared_sorting_class",
+        "code_label_query",
+        "interpretation_limit"
+      ],
+      "rows": 6
+    },
+    {
+      "path": "datasets/eucomext_battery_waste_trade_20260929_v2/eu27_directed_trade_observations.csv",
+      "sha256": "ec39e1913fc6093bb7dbbc8eb6edcb06d1193614dd60a3737254555842496b9f",
+      "bytes": 189124,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "product_description",
+        "year",
+        "flow",
+        "origin",
+        "destination",
+        "reporter",
+        "partner",
+        "quantity_t",
+        "value_eur",
+        "quantity_observation_present",
+        "value_observation_present",
+        "reported_status_flag"
+      ],
+      "rows": 980
+    },
+    {
+      "path": "datasets/eucomext_battery_waste_trade_20260929_v2/eu27_export_network_metrics.csv",
+      "sha256": "d9559f0ae5ce61e2b6927c105cbce25bfffb781fb80a99d8712b28a973662af3",
+      "bytes": 5049,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "product_description",
+        "year",
+        "reported_positive_routes",
+        "origin_countries_with_positive_records",
+        "destination_countries_with_positive_records",
+        "declared_mass_t",
+        "declared_trade_value_eur",
+        "top_route_mass_share",
+        "route_hhi",
+        "origin_hhi",
+        "potential_directed_pairs_27x26",
+        "reported_route_fraction_not_coverage"
+      ],
+      "rows": 24
+    },
+    {
+      "path": "datasets/eucomext_battery_waste_trade_20260929_v2/eu27_export_period_totals.csv",
+      "sha256": "2e3c407ab5fd2b23379b8ff3c3c3704218efae87cdcfc6c1402e03da2e07d544",
+      "bytes": 1538,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "product_description",
+        "period",
+        "reported_positive_routes",
+        "origin_countries_with_positive_records",
+        "destination_countries_with_positive_records",
+        "declared_mass_t",
+        "declared_trade_value_eur",
+        "top_route_mass_share",
+        "route_hhi",
+        "origin_hhi",
+        "potential_directed_pairs_27x26",
+        "reported_route_fraction_not_coverage"
+      ],
+      "rows": 6
+    },
+    {
+      "path": "datasets/eucomext_battery_waste_trade_20260929_v2/eu27_member_aggregate_trade.csv",
+      "sha256": "04cf545f8de2824b9e8a4ed9ab61f0dfcaf6093f718dca9f60ebc8bc2d5c2ca7",
+      "bytes": 113106,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "product_description",
+        "year",
+        "flow",
+        "country",
+        "partner_aggregate",
+        "quantity_t",
+        "value_eur",
+        "quantity_observation_present",
+        "value_observation_present"
+      ],
+      "rows": 590
+    },
+    {
+      "path": "datasets/eucomext_battery_waste_trade_20260929_v2/eu27_mirror_comparison.csv",
+      "sha256": "fc1d7be200224b521a55605c5373982c11c84aabcff4740e1162810580c1b68b",
+      "bytes": 184868,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "product_description",
+        "year",
+        "origin",
+        "destination",
+        "export_observation_present",
+        "import_mirror_observation_present",
+        "mirror_status",
+        "export_mass_t",
+        "import_mirror_mass_t",
+        "export_value_eur",
+        "import_mirror_value_eur",
+        "mass_abs_difference_t",
+        "mass_relative_abs_difference",
+        "value_abs_difference_eur",
+        "value_relative_abs_difference"
+      ],
+      "rows": 912
+    },
+    {
+      "path": "datasets/eucomext_battery_waste_trade_20260929_v2/eu27_mirror_summary.csv",
+      "sha256": "71050ed3bc3b9162e1389827a471bcb0269b0431049d4f9bab5db51276525ab6",
+      "bytes": 4064,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "product_description",
+        "year",
+        "directed_pair_year_union",
+        "both_sides_reported",
+        "export_only",
+        "import_only",
+        "matched_mass_records",
+        "median_mass_relative_abs_difference",
+        "sum_export_declarations_mass_t"
+      ],
+      "rows": 24
+    },
+    {
+      "path": "datasets/eucomext_battery_waste_trade_20260929_v2/eu27_raw_selected_observations.csv",
+      "sha256": "68e8abb441a464db98d5409de6646a723d3cc1481a198ff3747102a6619f2e71",
+      "bytes": 368744,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "product_description",
+        "year",
+        "flow",
+        "reporter",
+        "partner",
+        "origin",
+        "destination",
+        "indicator",
+        "obs_value",
+        "obs_status"
+      ],
+      "rows": 1960
+    },
+    {
+      "path": "environment_observed.json",
+      "sha256": "b1575c8d2aecdd59b7ade5cb5f137b28d32ccc3d3932a7f542e5e937abf577a2",
+      "bytes": 466,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "provenance/code_origin.json",
+      "sha256": "525bd067e1ada1c775624981ea6b8a8369fa2c94b36e081fc0706f202fa9bb40",
+      "bytes": 2690,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "provenance/comext_request_manifests.json",
+      "sha256": "be0ec1e3137ce9a118a48501b96c677b9381fba9bbc68be218964f268a03f225",
+      "bytes": 35602,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "provenance/source_inputs.json",
+      "sha256": "eb2643c1ca32b634921cdf64cfa87f358079ca6657bbb04a18fbe2b43087832a",
+      "bytes": 11019,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "pytest.ini",
+      "sha256": "7a0e48ac8b2fc281951bdc9766ae854328ca280f5cf3e9d6b1f4fd82688532b5",
+      "bytes": 78,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "a22f8b3ac106c6e0b04223cf925e3259883505c92c81b52428a7f8c6dfae9e59",
+      "bytes": 207,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "results/README.md",
+      "sha256": "cc3600ba1f1336072b81233a3306d3a4f703969a95972dcef6d4ebb5f92abde5",
+      "bytes": 155,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "results/comext_decision_inputs_20260930_v1/aggregation_scale_sensitivity.csv",
+      "sha256": "45e01ebcab80fc4562caafdfe301000756f02dfa561e9ce2f900df80a6639fd2",
+      "bytes": 2588,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "classification_group",
+        "window",
+        "aggregation_scale",
+        "export_positive_reported_units",
+        "import_positive_reported_units",
+        "intersection_units",
+        "union_units",
+        "support_jaccard",
+        "normalised_reported_mass_overlap"
+      ],
+      "rows": 24
+    },
+    {
+      "path": "results/comext_decision_inputs_20260930_v1/destination_reported_mass_ranks.csv",
+      "sha256": "7741c5033ff836d149c22157ca4d367acec90e321f1d4951aacf0fdd97b05672",
+      "bytes": 26502,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "classification_group",
+        "window",
+        "report_rule",
+        "country",
+        "published_mass_share",
+        "rank_of_published_mass",
+        "cumulative_share"
+      ],
+      "rows": 324
+    },
+    {
+      "path": "results/comext_decision_inputs_20260930_v1/fixed_classification_annual_pooled_sensitivity.csv",
+      "sha256": "a145138402f4954735cfac9c33e9659f7f18ae7126d9633d4ad0797e34111687",
+      "bytes": 900,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "classification_group",
+        "time_window",
+        "export_positive_reported_units",
+        "import_positive_reported_units",
+        "intersection_units",
+        "union_units",
+        "support_jaccard",
+        "normalised_reported_mass_overlap"
+      ],
+      "rows": 10
+    },
+    {
+      "path": "results/comext_decision_inputs_20260930_v1/information_priority_cross_view_coverage.csv",
+      "sha256": "1985dbb6c15e50db1178c9a3b90999933c1a8acc86f776065c16a782337f59ea",
+      "bytes": 19791,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "classification_group",
+        "window",
+        "selection_rule",
+        "country_budget_k",
+        "selected_destination_countries",
+        "share_under_exporter",
+        "share_under_importer_mirror",
+        "share_under_available_max",
+        "worst_share_under_two_reporter_views",
+        "interpretation"
+      ],
+      "rows": 80
+    },
+    {
+      "path": "results/comext_information_checks_20261001_v1/population_quality_diagnostics.csv",
+      "sha256": "3a1a1f75c978a8ad0aa9aacd9bdb67b415f07d11d185f7e423183bee5f0d12a4",
+      "bytes": 1421,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "scope",
+        "evaluation_window",
+        "selected_union_keys",
+        "matched_quantity_keys",
+        "matched_positive_sum_keys",
+        "matched_both_positive_keys",
+        "matched_zero_sum_keys",
+        "unmatched_quantity_keys",
+        "exporter_available_mass_t",
+        "importer_available_mass_t",
+        "matched_exporter_mass_share",
+        "matched_importer_mass_share",
+        "mean_record_asymmetry_percent",
+        "equal_country_mean_asymmetry_percent",
+        "countries_with_defined_asymmetry",
+        "weighted_asymmetry_percent",
+        "paired_absolute_difference_t",
+        "asymmetry_quality_flag",
+        "coverage_quality_flag"
+      ],
+      "rows": 4
+    },
+    {
+      "path": "results/comext_information_checks_20261001_v1/priority_quality_diagnostics.csv",
+      "sha256": "443ea9294b746adfc4866cf581b2323f3ff3013a6c77393c31eb60a056a6338e",
+      "bytes": 25964,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "scope",
+        "selection_window",
+        "evaluation_window",
+        "country_budget_k",
+        "selection_rule",
+        "selected_countries",
+        "exporter_coverage",
+        "importer_coverage",
+        "smaller_view_coverage",
+        "selected_union_keys",
+        "matched_quantity_keys",
+        "matched_positive_sum_keys",
+        "matched_both_positive_keys",
+        "matched_zero_sum_keys",
+        "unmatched_quantity_keys",
+        "exporter_available_mass_t",
+        "importer_available_mass_t",
+        "matched_exporter_mass_share",
+        "matched_importer_mass_share",
+        "mean_record_asymmetry_percent",
+        "equal_country_mean_asymmetry_percent",
+        "countries_with_defined_asymmetry",
+        "weighted_asymmetry_percent",
+        "paired_absolute_difference_t",
+        "asymmetry_quality_flag",
+        "coverage_quality_flag"
+      ],
+      "rows": 80
+    },
+    {
+      "path": "results/comext_network_quality_20260930_v1r6/annual_export_import_network_diagnostics.csv",
+      "sha256": "dfe24a7ccc6c3276dad14b17c488ec7eccb81b149449817cd5b9fa16a689f1ed",
+      "bytes": 9881,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "product_description",
+        "year",
+        "export_declaration_rows",
+        "export_declaration_mass_t_all_rows",
+        "export_declaration_value_eur_all_rows",
+        "export_positive_reported_routes",
+        "export_exporter_countries_with_positive_records",
+        "export_destination_countries_with_positive_records",
+        "export_positive_reported_mass_t",
+        "export_positive_route_hhi",
+        "export_exporter_mass_hhi",
+        "export_top_route_mass_share",
+        "export_zero_mass_nonzero_value_records",
+        "export_negative_mass_records",
+        "import_mirror_declaration_rows",
+        "import_mirror_mass_t_all_rows",
+        "import_positive_reported_routes",
+        "import_exporter_countries_with_positive_records",
+        "import_destination_countries_with_positive_records",
+        "import_positive_reported_mass_t",
+        "import_positive_route_hhi",
+        "import_exporter_mass_hhi",
+        "import_top_route_mass_share",
+        "import_zero_mass_nonzero_value_records",
+        "import_negative_mass_records",
+        "possible_directed_eu27_pairs",
+        "export_positive_edge_density_pct_not_coverage",
+        "positive_edge_jaccard_export_vs_import_reports",
+        "positive_edge_union_count",
+        "positive_edge_intersection_count"
+      ],
+      "rows": 24
+    },
+    {
+      "path": "results/comext_network_quality_20260930_v1r6/annual_mirror_diagnostics.csv",
+      "sha256": "aa40325141209020eee5099f7d73d952ad8edca555974da81c68b81888014673",
+      "bytes": 5732,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "product_description",
+        "year",
+        "pair_year_union_count",
+        "both_sides_with_mass",
+        "export_only_count",
+        "import_only_count",
+        "both_sides_share_of_union_pct",
+        "matched_positive_or_nonzero_pair_count",
+        "median_abs_symmetric_asymmetry_pct",
+        "mass_weighted_abs_symmetric_asymmetry_pct",
+        "signed_aggregate_symmetric_asymmetry_pct",
+        "export_mass_in_matched_pairs_t",
+        "mirror_import_mass_in_matched_pairs_t",
+        "matched_route_count"
+      ],
+      "rows": 24
+    },
+    {
+      "path": "results/comext_network_quality_20260930_v1r6/classification_aggregation_sensitivity.csv",
+      "sha256": "232f746b124507ad33abc6aefc38a5a575a330b8b81d1fa5aa60db50158a2369",
+      "bytes": 2359,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "aggregation",
+        "description",
+        "included_cn8_codes",
+        "period",
+        "export_positive_mass_t",
+        "export_positive_routes",
+        "export_positive_route_hhi",
+        "export_top_route_share",
+        "import_mirror_positive_mass_t",
+        "import_mirror_positive_routes",
+        "import_mirror_positive_route_hhi",
+        "import_mirror_top_route_share",
+        "positive_route_jaccard_export_vs_import_mirror",
+        "interpretation_limit"
+      ],
+      "rows": 6
+    },
+    {
+      "path": "results/comext_network_quality_20260930_v1r6/cn8_category_composition.csv",
+      "sha256": "9ed10ed601ac49547f90cb09c25f582143e0d7fa5c27ffcc707d670accc4bf97",
+      "bytes": 2144,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "product_description",
+        "declared_product_state",
+        "declared_sorting_class",
+        "period_positive_export_mass_t",
+        "share_of_six_code_positive_export_mass_pct",
+        "export_positive_routes_4y",
+        "export_positive_route_hhi_4y",
+        "limit"
+      ],
+      "rows": 6
+    },
+    {
+      "path": "results/comext_network_quality_20260930_v1r6/network_input_rule_sensitivity.csv",
+      "sha256": "8e3a63fdcbe1fb9adedd64cabf8289d17e497057eab7a81e98877bc15d68f418",
+      "bytes": 1630,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "network_input_rule",
+        "rule_definition",
+        "eligible_product_year_dyad_report_rows",
+        "positive_pooled_directed_routes",
+        "pooled_reported_mass_t_2022_2025",
+        "route_hhi",
+        "top_route_mass_share",
+        "top_route_origin",
+        "top_route_destination",
+        "interpretation"
+      ],
+      "rows": 5
+    },
+    {
+      "path": "results/comext_network_quality_20260930_v1r6/period_export_import_network_diagnostics.csv",
+      "sha256": "3146722653c926fe96809eef3e1e3e6847a7e250927c55759134a3cacd78ca4b",
+      "bytes": 2924,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "product_description",
+        "period",
+        "export_declaration_rows",
+        "export_declaration_mass_t_all_rows",
+        "export_declaration_value_eur_all_rows",
+        "export_positive_reported_routes",
+        "export_exporter_countries_with_positive_records",
+        "export_destination_countries_with_positive_records",
+        "export_positive_reported_mass_t",
+        "export_positive_route_hhi",
+        "export_exporter_mass_hhi",
+        "export_top_route_mass_share",
+        "export_zero_mass_nonzero_value_records",
+        "export_negative_mass_records",
+        "import_mirror_declaration_rows",
+        "import_mirror_mass_t_all_rows",
+        "import_positive_reported_routes",
+        "import_exporter_countries_with_positive_records",
+        "import_destination_countries_with_positive_records",
+        "import_positive_reported_mass_t",
+        "import_positive_route_hhi",
+        "import_exporter_mass_hhi",
+        "import_top_route_mass_share",
+        "import_zero_mass_nonzero_value_records",
+        "import_negative_mass_records"
+      ],
+      "rows": 6
+    },
+    {
+      "path": "results/comext_network_quality_20260930_v1r6/period_mirror_diagnostics.csv",
+      "sha256": "81c6666cc0a277dec1ad440cdc57685befa1e15ed72da13823640d7900e1471a",
+      "bytes": 1874,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "product_description",
+        "pair_year_union_count",
+        "both_sides_with_mass",
+        "export_only_count",
+        "import_only_count",
+        "both_sides_share_of_union_pct",
+        "matched_positive_or_nonzero_pair_count",
+        "median_abs_symmetric_asymmetry_pct",
+        "mass_weighted_abs_symmetric_asymmetry_pct",
+        "signed_aggregate_symmetric_asymmetry_pct",
+        "export_mass_in_matched_pairs_t",
+        "mirror_import_mass_in_matched_pairs_t",
+        "matched_route_count"
+      ],
+      "rows": 6
+    },
+    {
+      "path": "results/comext_network_quality_20260930_v1r6/reporting_aggregate_coherence.csv",
+      "sha256": "eb99d17c479d0f192b00844f690f258ed2c6ae7be625d7049420cea6a798a15f",
+      "bytes": 63305,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "year",
+        "flow",
+        "reporter",
+        "intra_eu_aggregate_mass_t",
+        "sum_of_published_member_partner_mass_t",
+        "published_partner_detail_rows",
+        "detail_rows_with_missing_mass",
+        "reconciliation_status",
+        "detail_minus_aggregate_t",
+        "abs_relative_difference_pct",
+        "interpretation"
+      ],
+      "rows": 350
+    },
+    {
+      "path": "results/comext_network_quality_20260930_v1r6/route_definition_sensitivity.csv",
+      "sha256": "f4ed84ebcb89e541361187a1772da762ed0d0733eb3c678d8b414dde4d4e9811",
+      "bytes": 2978,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "year",
+        "export_positive_routes",
+        "import_mirror_positive_routes",
+        "positive_route_intersection",
+        "positive_route_union",
+        "jaccard_positive_route_overlap",
+        "export_route_hhi",
+        "import_mirror_route_hhi",
+        "export_top_route_share",
+        "import_mirror_top_route_share"
+      ],
+      "rows": 24
+    },
+    {
+      "path": "results/comext_network_quality_20260930_v1r6/route_overlap_threshold_sensitivity.csv",
+      "sha256": "01e8c7044cb1e23d0cec16c46d02af006df83e77b4c342223eebeef0eb09ba5a",
+      "bytes": 13821,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "year",
+        "reported_mass_threshold_t_strictly_greater_than",
+        "export_positive_reported_routes",
+        "import_mirror_positive_reported_routes",
+        "intersection_routes",
+        "union_routes",
+        "positive_report_support_jaccard",
+        "interpretation"
+      ],
+      "rows": 96
+    },
+    {
+      "path": "results/comext_temporal_holdout_20261001_v1/temporal_holdout_information_coverage.csv",
+      "sha256": "295afecbba2f5ca049decbab715e74b082da5d35a7a095807bbad91129818d7f",
+      "bytes": 14404,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "classification_group",
+        "selection_rule",
+        "country_budget_k",
+        "selected_destination_countries",
+        "share_under_exporter",
+        "share_under_importer_mirror",
+        "share_under_available_max",
+        "worst_share_under_two_reporter_views",
+        "interpretation",
+        "selection_window",
+        "evaluation_window",
+        "heldout_exporter_coverage",
+        "heldout_importer_coverage",
+        "heldout_smaller_coverage",
+        "uniform_country_set_expected_smaller_coverage",
+        "fraction_country_sets_with_smaller_coverage_at_most_selected",
+        "number_all_same_budget_country_sets"
+      ],
+      "rows": 40
+    },
+    {
+      "path": "results/comext_vintage_check_20261001_v1/vintage_measure_comparison.csv",
+      "sha256": "b848dce65578e02ccbd873e6ff6f398609193657a4ebf4e3d8e4a6ab797ff970",
+      "bytes": 145460,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "product",
+        "year",
+        "flow",
+        "origin",
+        "destination",
+        "field",
+        "old_value",
+        "new_value",
+        "absolute_difference",
+        "relative_difference_percent",
+        "comparison_status"
+      ],
+      "rows": 1960
+    },
+    {
+      "path": "results/comext_vintage_check_20261001_v1/vintage_summary.csv",
+      "sha256": "6735e710fbe5211df434bf9b6129ae5cab107c651ffed57225c43d113bec6f0c",
+      "bytes": 183,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "window",
+        "compared_measures",
+        "unchanged",
+        "changed_numeric",
+        "availability_changed",
+        "max_absolute_mass_change_t"
+      ],
+      "rows": 3
+    },
+    {
+      "path": "results/public_permit_field_gate_20261002_v1/public_permit_scope_cases.csv",
+      "sha256": "a49362002c1b20cef7a7c1a58d1ffc7325eda4d8b244e071f40d8e76e08132b1",
+      "bytes": 20803,
+      "license_class": "ILT_CC0_subject_to_source_exceptions",
+      "fields": [
+        "notification_id",
+        "application_type",
+        "decision",
+        "notifier_country_source",
+        "processor_country_source",
+        "waste_description",
+        "OECD_code",
+        "Basel_code",
+        "LoW_code",
+        "D_R_codes",
+        "planned_tonnes",
+        "planned_shipments",
+        "planned_first_departure",
+        "planned_last_departure",
+        "decision_date"
+      ],
+      "rows": 151
+    },
+    {
+      "path": "results/scope_identification_pilot_20261002_v1/comext_pilot_inputs.csv",
+      "sha256": "28ea537a22b45e418c6656fb3a58bddfd51bbc6a56e7212d5efc88067dde2d11",
+      "bytes": 699,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "origin",
+        "scope",
+        "view",
+        "reported_t",
+        "records",
+        "availability",
+        "target_lithium_share_lower",
+        "target_lithium_share_upper",
+        "EV_specific",
+        "reported_R4_identified"
+      ],
+      "rows": 8
+    },
+    {
+      "path": "results/scope_identification_pilot_20261002_v1/uba_pilot_rows.csv",
+      "sha256": "704c8dfef5e9fbdc883d85f46062c7df7c031581a8cb9f24c4e63377b5a658d3",
+      "bytes": 2199,
+      "license_class": "UBA_data_reuse_with_credit_and_change_notice",
+      "fields": [
+        "origin",
+        "destination",
+        "year",
+        "low_code",
+        "description",
+        "basel_code",
+        "r_code",
+        "quantity_t",
+        "page",
+        "raw_line",
+        "evidence_grade"
+      ],
+      "rows": 10
+    },
+    {
+      "path": "results/scope_identification_transfer_20261002_v1/comext_pilot_inputs.csv",
+      "sha256": "a6e27e673fac5160c530ac0e9bf1028b2bf5464930314d521eacb8b9cf601ee1",
+      "bytes": 680,
+      "license_class": "Eurostat_source_terms_with_Austria_CN8_commercial_exception",
+      "fields": [
+        "origin",
+        "scope",
+        "view",
+        "reported_t",
+        "records",
+        "availability",
+        "target_lithium_share_lower",
+        "target_lithium_share_upper",
+        "EV_specific",
+        "reported_R4_identified"
+      ],
+      "rows": 8
+    },
+    {
+      "path": "results/scope_identification_transfer_20261002_v1/uba_pilot_rows.csv",
+      "sha256": "9e0996c50c425a7286caae33e97bb0b4aa20694a544100bf19ade927f0c03d89",
+      "bytes": 2137,
+      "license_class": "UBA_data_reuse_with_credit_and_change_notice",
+      "fields": [
+        "origin",
+        "destination",
+        "year",
+        "low_code",
+        "description",
+        "basel_code",
+        "r_code",
+        "quantity_t",
+        "page",
+        "raw_line",
+        "evidence_grade"
+      ],
+      "rows": 10
+    },
+    {
+      "path": "src/__init__.py",
+      "sha256": "02909cd5fa9bc6b786d02cfcbd51b9582871b13bd73a0397412ae7d66e961142",
+      "bytes": 66,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "src/battery_scope_identification.py",
+      "sha256": "0cdf22402878fb41d4b60f7e4a2862322fe54ebf517dbc97a125c440bf3d539a",
+      "bytes": 11486,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "src/capture_basel_readonly_table5.py",
+      "sha256": "a8d797d4c6c9e713371a73957cea2b5b211c012341e3a60818c6e5410167b537",
+      "bytes": 3610,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "src/comext_decision_input_analysis.py",
+      "sha256": "b05b55b5a611b3726b098a3df4f1ca63548e91df301cbf93817249716c3b69e5",
+      "bytes": 9173,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "src/comext_information_check_diagnostics.py",
+      "sha256": "37c6860687190f7d6b0d75a436561d669be42422b7988526da9610f8c4ab6a04",
+      "bytes": 6474,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "src/comext_network_quality_analysis.py",
+      "sha256": "3b3602823c3d2f26d43355458bff2e3086de2089ef6d72ddb6f836b2f92396e3",
+      "bytes": 28010,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "src/comext_temporal_priority_validation.py",
+      "sha256": "418650c27c58fe09eacab4c9cc2840b91b80b835fbf38ff96d3eee3c5585f12b",
+      "bytes": 3600,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "src/comext_trade_audit.py",
+      "sha256": "b3aeb92e0f8b365e1589c717ee0819b764d48e533592554c41ab0e438dde010f",
+      "bytes": 22256,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "src/comext_vintage_comparison.py",
+      "sha256": "58776ad25e264b063ec1dd393874fa7e22bb0493b06fae67da984c95aabab409",
+      "bytes": 4034,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "src/inspect_public_notification_register.py",
+      "sha256": "2a5d05e9209ffd47ef085e7e5c24f773051eb744dd7f76037055b6507d24a8f1",
+      "bytes": 3154,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "src/scope_decision_certificate.py",
+      "sha256": "e7e01583808255051e73cc8ce7a110c4e85a5f9f73e93f64e38fdd182200a3bb",
+      "bytes": 4914,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "src/vendor/nature_figure/LICENSE",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "bytes": 11357,
+      "license_class": "third_party_Apache_2_0_or_named_MIT_notice"
+    },
+    {
+      "path": "src/vendor/nature_figure/SciencePlots_LICENSE",
+      "sha256": "9e5d935909270a14c3e9dc5ede0bcfc73a69fc3411f70ddd9e05065602a46cdb",
+      "bytes": 1068,
+      "license_class": "third_party_Apache_2_0_or_named_MIT_notice"
+    },
+    {
+      "path": "src/vendor/nature_figure/audit_panel_alignment.py",
+      "sha256": "43958e6b49d897f326ff64e73cbed0bf057e17c06533b5b57d3dededf8111e76",
+      "bytes": 39364,
+      "license_class": "third_party_Apache_2_0_or_named_MIT_notice"
+    },
+    {
+      "path": "src/vendor/nature_figure/nature.mplstyle",
+      "sha256": "1d39b7974b71da2b92349f7f95d2e17f94dc83b335a0e1c18dfab522b363b0e2",
+      "bytes": 906,
+      "license_class": "third_party_Apache_2_0_or_named_MIT_notice"
+    },
+    {
+      "path": "src/verify_comext_raw_extraction.py",
+      "sha256": "20a768008ff5c0d49624fb528723597520dae5460382364b514e7587af0ebf2f",
+      "bytes": 6657,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "src/verify_scope_manuscript.py",
+      "sha256": "d29f135cf8728d1a1671e2c23810f1e4d4249d934f97c641e94f4028bf193d3e",
+      "bytes": 7722,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "tests/test_battery_scope_identification.py",
+      "sha256": "94027eec6a30f2cb7f2eacc43502586ee35b0e8a7d3880338e7c6e21b7d92b40",
+      "bytes": 2646,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "tests/test_comext_decision_input_analysis.py",
+      "sha256": "fa1904ef30ef4b44fd2642271bc655d02adee65c72d36646860233aa458f2032",
+      "bytes": 1435,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "tests/test_comext_information_check_diagnostics.py",
+      "sha256": "98ae82be9cc5b9609b7c5efe3527f371e29a75c200ba97db5f5bcb549ac18a41",
+      "bytes": 2021,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "tests/test_comext_network_quality_analysis.py",
+      "sha256": "9ebf20e5436d0efd4b6de8a94c7177f5da8b0cf803138ad77e1646bd30e36cb6",
+      "bytes": 5041,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "tests/test_comext_trade_audit.py",
+      "sha256": "31bee6a3f3ca0bd292ec9dab8cb7064c670b53193f92a95d26f5449e574f4a83",
+      "bytes": 1146,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "tests/test_comext_vintage_comparison.py",
+      "sha256": "4519bf7cd36cd590e4762aaace44bbeec3e3e4741a02b59102ea23151f399eba",
+      "bytes": 941,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "tests/test_release_tools.py",
+      "sha256": "a8736b71910ea394b48c04a4580da1e883212dc27edd864c7d8ff9465db346ae",
+      "bytes": 5180,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "tests/test_verify_comext_raw_extraction.py",
+      "sha256": "1476998539bcb58ad5d0456a3e07e65b809ab4ce0cba3fa83c2ae2e046d7962f",
+      "bytes": 1590,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "tools/__init__.py",
+      "sha256": "6b8185ab8f261c43f18f3807996ae0d84b7df8d445fa65e19a956841fb7cba93",
+      "bytes": 69,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "tools/fetch_sources.py",
+      "sha256": "cfbd48f9fb55f7408b1ebee1f93aa9a7a073807ef201be9c5738e72b7b8d7b84",
+      "bytes": 2778,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "tools/figures.py",
+      "sha256": "2c4da3500fdc04cacf090c4fa675cb45597e54f535cfb897531d42117900f04d",
+      "bytes": 18420,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "tools/prepare_metadata.py",
+      "sha256": "d922e2fbf008ad1d2694f31d8c71d835eb6e7e32310c2997aefceb4d66285f06",
+      "bytes": 7232,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "tools/reproduce.py",
+      "sha256": "da3acc57dc74c8ddc4b28318dc32db010f22a0b6b09f6cb5f6815817e04a7d70",
+      "bytes": 8781,
+      "license_class": "original_software_MIT"
+    },
+    {
+      "path": "tools/verify_release.py",
+      "sha256": "91d44ba85d34bec0c7116ad7af2fd80daa2a3dcde893d55729e061f67efefaa2",
+      "bytes": 7357,
+      "license_class": "original_software_MIT"
+    }
+  ],
+  "excluded": "Basel raw and all Basel-derived result/display data; all raw reports/ODS, manuscripts/PDFs, private logs, credentials, fonts and old archives",
+  "public_metadata_pending": "formal tagged release and actual Zenodo version DOI only; creator and repository recorded",
+  "source_permissions": "mixed; software MIT does not license data",
+  "prior_candidate_manifest_sha256": "c28639dd8e4dad65e71e22b34772f7f17e7355208ac75f6851aac104b7fe560c",
+  "upload_preparation_utc": "2026-10-06T06:29:52.862887+00:00",
+  "repository_url": "https://github.com/williamjay1/project19-battery-waste-inputs"
+}

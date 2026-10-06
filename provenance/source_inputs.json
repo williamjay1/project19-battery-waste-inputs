@@ -1,0 +1,232 @@
+{
+  "inputs": {
+    "basel2023": {
+      "relative_path": "basel_table5_navigation_20261002_v1/germany_2023_table5.html",
+      "url": "https://ers.basel.int/ERS-Extended/FeedbackServer/fsadmin.aspx?fscontrol=respondentReport&surveyid=86&voterid=62482&readonly=1&nomenu=1",
+      "sha256": "8bf04b64a9cf6c8a76261c8f221204601f8389ed95d56e2f11d9c0575fb2d7e0",
+      "bytes": 1930254,
+      "retrieved_utc": "2026-10-02T04:18:15.515464+00:00",
+      "redistribution": "raw file withheld; obtain from official source",
+      "selected_scientific_content_sha256": "899e49e93b4551bb04eb282f1d032539ac9e33c65c36b1db5578cdf6d0eff7b5"
+    },
+    "basel2024": {
+      "relative_path": "basel_table5_transfer_20261002_v1/germany_2024_table5.html",
+      "url": "https://ers.basel.int/ERS-Extended/FeedbackServer/fsadmin.aspx?fscontrol=respondentReport&surveyid=89&voterid=64675&readonly=1&nomenu=1",
+      "sha256": "eec3d6ac238bd0c09101a04272a54de5ef8584920d075a4018602939eda4b44b",
+      "bytes": 1722783,
+      "retrieved_utc": "2026-10-02T04:36:15.430700+00:00",
+      "redistribution": "raw file withheld; obtain from official source",
+      "selected_scientific_content_sha256": "7b080c35314ddb232e5dd452150defed3f13171737c510eeb20e54d909827c29"
+    },
+    "uba2023": {
+      "relative_path": "scope_pilot_20261002_v1/uba_import_2023.pdf",
+      "url": "https://www.umweltbundesamt.de/system/files/medien/2503/dokumente/grenzueberschreitende_verbringung_von_zustimmungspflichtigen_abfaellen_import_2023.pdf",
+      "sha256": "2c766cca8291af770e74a49166f4469bedf21568209d30758ce067c1f3cdfcab",
+      "bytes": 260084,
+      "retrieved_utc": "2026-10-02T04:11:24.059000+00:00",
+      "redistribution": "raw file withheld; obtain from official source"
+    },
+    "uba2024": {
+      "relative_path": "scope_transfer_20261002_v1/uba_import_2024.pdf",
+      "url": "https://www.umweltbundesamt.de/system/files/medien/2503/dokumente/grenzueberschreitende_verbringung_von_zustimmungspflichtigen_abfaellen_import_2024.pdf",
+      "sha256": "74358d4e5eae817d44fd85be6a86fdd9635d340bf8670049967c9079fa7f8dd6",
+      "bytes": 259189,
+      "retrieved_utc": "2026-10-02T04:35:00.927026+00:00",
+      "redistribution": "raw file withheld; obtain from official source"
+    },
+    "permits": {
+      "relative_path": "scope_gate_secondary_20261002_v1/ilt_notification_decisions.ods",
+      "url": "https://www.ilent.nl/site/binaries/site-content/collections/documents/afval/afvaltransport-evoa/publicaties/besluiten-evoa-kennisgevingen/lijst-evoa-kennisgevingen-310826.ods",
+      "sha256": "b5fe2a11d96f566d11d592aaf84d91cb7c3afba52b107c43be8b59bc216258a7",
+      "bytes": 3149810,
+      "retrieved_utc": "2026-10-02T04:19:21.577205+00:00",
+      "redistribution": "raw file withheld; obtain from official source"
+    },
+    "comext": {
+      "relative_path": "datasets/eucomext_battery_waste_trade_20260929_v2/eu27_directed_trade_observations.csv",
+      "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409",
+      "sha256": "ec39e1913fc6093bb7dbbc8eb6edcb06d1193614dd60a3737254555842496b9f",
+      "included": true,
+      "bytes": 189124,
+      "retrieved_utc": "2026-09-28T19:03:07.769827+00:00",
+      "derived_snapshot_label": "20260929_v2",
+      "redistribution": "credited source-specific derivative only"
+    }
+  },
+  "main_result_fingerprints": [
+    {
+      "path": "scope_identification_pilot_20261002_v1/administrative_concordance.csv",
+      "sha256": "91d4728bf6e5728ab39c16843816610626c54ba54708d50516302babc88f0203",
+      "distributed": false
+    },
+    {
+      "path": "scope_identification_pilot_20261002_v1/comext_pilot_inputs.csv",
+      "sha256": "28ea537a22b45e418c6656fb3a58bddfd51bbc6a56e7212d5efc88067dde2d11",
+      "distributed": true
+    },
+    {
+      "path": "scope_identification_pilot_20261002_v1/finite_report_scope_bounds.csv",
+      "sha256": "a0844e9389fac9c46dff447987aed3b1656965a114e1dd57d78bd765f477e5f8",
+      "distributed": false
+    },
+    {
+      "path": "scope_identification_pilot_20261002_v1/naive_scope_mapping_feasibility.csv",
+      "sha256": "b2e589ef4df1dba3e4427c85e6e975b9abed2610800e54eeacf6a45ffd4cd3f9",
+      "distributed": false
+    },
+    {
+      "path": "scope_identification_pilot_20261002_v1/route_rank_identification.csv",
+      "sha256": "a5e4c5ea9b23a48c88473915cd77404f83ec18febb0b148de3319100a90234aa",
+      "distributed": false
+    },
+    {
+      "path": "scope_identification_pilot_20261002_v1/uba_pilot_rows.csv",
+      "sha256": "704c8dfef5e9fbdc883d85f46062c7df7c031581a8cb9f24c4e63377b5a658d3",
+      "distributed": true
+    },
+    {
+      "path": "scope_identification_transfer_20261002_v1/administrative_concordance.csv",
+      "sha256": "3408d339807ac57f6b8c9450b13bd50b81a4f8fd6bd15645d03882287a5f364c",
+      "distributed": false
+    },
+    {
+      "path": "scope_identification_transfer_20261002_v1/comext_pilot_inputs.csv",
+      "sha256": "a6e27e673fac5160c530ac0e9bf1028b2bf5464930314d521eacb8b9cf601ee1",
+      "distributed": true
+    },
+    {
+      "path": "scope_identification_transfer_20261002_v1/finite_report_scope_bounds.csv",
+      "sha256": "b938834c50fd5266c97fe738ceb9de5ebb80f764260e526e02e8b1e3ce3cc67b",
+      "distributed": false
+    },
+    {
+      "path": "scope_identification_transfer_20261002_v1/naive_scope_mapping_feasibility.csv",
+      "sha256": "97b93668fff13a3123c69fbd6b2a8d8e20f4be62f7ea350434a8a4d6f2e73be6",
+      "distributed": false
+    },
+    {
+      "path": "scope_identification_transfer_20261002_v1/route_rank_identification.csv",
+      "sha256": "0d192d3b157f7c4b6ce2bc6397f4239e6156c4fa5906846c4bba5ffa09d76fb6",
+      "distributed": false
+    },
+    {
+      "path": "scope_identification_transfer_20261002_v1/uba_pilot_rows.csv",
+      "sha256": "9e0996c50c425a7286caae33e97bb0b4aa20694a544100bf19ade927f0c03d89",
+      "distributed": true
+    },
+    {
+      "path": "scope_decision_certificates_20261002_v1/assumption_sensitivity.csv",
+      "sha256": "f3bb140be942007653c504e807682ce63d10d40ea02fa84f692ae80fb4dc2b46",
+      "distributed": false
+    },
+    {
+      "path": "scope_decision_certificates_20261002_v1/counterfactual_input_errors.csv",
+      "sha256": "85dee9a679d249169dd6c6252a39e85863647af562fe470969095a703080340d",
+      "distributed": false
+    },
+    {
+      "path": "scope_decision_certificates_20261002_v1/decision_certificates.csv",
+      "sha256": "ce1a698c3c58796510ba1bf1088523c641532c4e0024fa7f0db2cbc6787bf07b",
+      "distributed": false
+    },
+    {
+      "path": "scope_decision_certificates_20261002_v1/sequential_scope_ablation.csv",
+      "sha256": "0dd9adf26a5006891874c33725afc667f341dfac679779683b15f0931a659107",
+      "distributed": false
+    },
+    {
+      "path": "public_permit_field_gate_20261002_v1/public_permit_scope_cases.csv",
+      "sha256": "a49362002c1b20cef7a7c1a58d1ffc7325eda4d8b244e071f40d8e76e08132b1",
+      "distributed": true
+    }
+  ],
+  "retained_trade_result_fingerprints": [
+    {
+      "path": "comext_network_quality_20260930_v1r6/annual_export_import_network_diagnostics.csv",
+      "sha256": "dfe24a7ccc6c3276dad14b17c488ec7eccb81b149449817cd5b9fa16a689f1ed",
+      "distributed": true
+    },
+    {
+      "path": "comext_network_quality_20260930_v1r6/annual_mirror_diagnostics.csv",
+      "sha256": "aa40325141209020eee5099f7d73d952ad8edca555974da81c68b81888014673",
+      "distributed": true
+    },
+    {
+      "path": "comext_network_quality_20260930_v1r6/classification_aggregation_sensitivity.csv",
+      "sha256": "232f746b124507ad33abc6aefc38a5a575a330b8b81d1fa5aa60db50158a2369",
+      "distributed": true
+    },
+    {
+      "path": "comext_network_quality_20260930_v1r6/cn8_category_composition.csv",
+      "sha256": "9ed10ed601ac49547f90cb09c25f582143e0d7fa5c27ffcc707d670accc4bf97",
+      "distributed": true
+    },
+    {
+      "path": "comext_network_quality_20260930_v1r6/network_input_rule_sensitivity.csv",
+      "sha256": "8e3a63fdcbe1fb9adedd64cabf8289d17e497057eab7a81e98877bc15d68f418",
+      "distributed": true
+    },
+    {
+      "path": "comext_network_quality_20260930_v1r6/period_export_import_network_diagnostics.csv",
+      "sha256": "3146722653c926fe96809eef3e1e3e6847a7e250927c55759134a3cacd78ca4b",
+      "distributed": true
+    },
+    {
+      "path": "comext_network_quality_20260930_v1r6/period_mirror_diagnostics.csv",
+      "sha256": "81c6666cc0a277dec1ad440cdc57685befa1e15ed72da13823640d7900e1471a",
+      "distributed": true
+    },
+    {
+      "path": "comext_network_quality_20260930_v1r6/reporting_aggregate_coherence.csv",
+      "sha256": "eb99d17c479d0f192b00844f690f258ed2c6ae7be625d7049420cea6a798a15f",
+      "distributed": true
+    },
+    {
+      "path": "comext_network_quality_20260930_v1r6/route_definition_sensitivity.csv",
+      "sha256": "f4ed84ebcb89e541361187a1772da762ed0d0733eb3c678d8b414dde4d4e9811",
+      "distributed": true
+    },
+    {
+      "path": "comext_network_quality_20260930_v1r6/route_overlap_threshold_sensitivity.csv",
+      "sha256": "01e8c7044cb1e23d0cec16c46d02af006df83e77b4c342223eebeef0eb09ba5a",
+      "distributed": true
+    },
+    {
+      "path": "comext_decision_inputs_20260930_v1/aggregation_scale_sensitivity.csv",
+      "sha256": "45e01ebcab80fc4562caafdfe301000756f02dfa561e9ce2f900df80a6639fd2",
+      "distributed": true
+    },
+    {
+      "path": "comext_decision_inputs_20260930_v1/destination_reported_mass_ranks.csv",
+      "sha256": "7741c5033ff836d149c22157ca4d367acec90e321f1d4951aacf0fdd97b05672",
+      "distributed": true
+    },
+    {
+      "path": "comext_decision_inputs_20260930_v1/fixed_classification_annual_pooled_sensitivity.csv",
+      "sha256": "a145138402f4954735cfac9c33e9659f7f18ae7126d9633d4ad0797e34111687",
+      "distributed": true
+    },
+    {
+      "path": "comext_decision_inputs_20260930_v1/information_priority_cross_view_coverage.csv",
+      "sha256": "1985dbb6c15e50db1178c9a3b90999933c1a8acc86f776065c16a782337f59ea",
+      "distributed": true
+    },
+    {
+      "path": "comext_information_checks_20261001_v1/population_quality_diagnostics.csv",
+      "sha256": "3a1a1f75c978a8ad0aa9aacd9bdb67b415f07d11d185f7e423183bee5f0d12a4",
+      "distributed": true
+    },
+    {
+      "path": "comext_information_checks_20261001_v1/priority_quality_diagnostics.csv",
+      "sha256": "443ea9294b746adfc4866cf581b2323f3ff3013a6c77393c31eb60a056a6338e",
+      "distributed": true
+    },
+    {
+      "path": "comext_temporal_holdout_20261001_v1/temporal_holdout_information_coverage.csv",
+      "sha256": "295afecbba2f5ca049decbab715e74b082da5d35a7a095807bbad91129818d7f",
+      "distributed": true
+    }
+  ],
+  "restricted_results": "fingerprints only; no source rows or derived Basel values",
+  "observation_boundary": "administrative data; not physical verification"
+}

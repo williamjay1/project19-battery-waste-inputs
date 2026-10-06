@@ -1,0 +1,591 @@
+﻿product,product_description,year,flow,country,partner_aggregate,quantity_t,value_eur,quantity_observation_present,value_observation_present
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,BE,extra_eu27,0.001,100.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,BE,intra_eu27,4.21,2896.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,DE,extra_eu27,758.596,345477.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,IT,intra_eu27,319.92,185839.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,NL,intra_eu27,0.002,197.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,SE,extra_eu27,247.204,49630.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,SE,intra_eu27,483.26800000000003,140382.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,BE,extra_eu27,4.13,1552.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,CZ,extra_eu27,287.209,1141739.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,DE,extra_eu27,89.089,7767.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,DE,intra_eu27,705.3470000000001,800648.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,FR,extra_eu27,52.04900000000001,21742.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,FR,intra_eu27,709.308,1208114.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,GR,intra_eu27,0.07800000000000001,3574.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,IT,intra_eu27,0.014000000000000002,7340.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,LU,intra_eu27,0.001,42.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,PT,intra_eu27,47.977000000000004,150263.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,RO,intra_eu27,0.014000000000000002,1650.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,SE,extra_eu27,76.10700000000001,4.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,SE,intra_eu27,12.874000000000002,16493.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,SK,extra_eu27,0.002,348.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,SK,intra_eu27,0.001,2.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,BE,extra_eu27,0.008,205.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,BE,intra_eu27,0.6160000000000001,2189.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,DK,extra_eu27,0.001,1474.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,DK,intra_eu27,0.028999999999999998,247.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,FI,intra_eu27,58.982000000000006,23674.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,FR,intra_eu27,0.27999999999999997,569.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,IT,intra_eu27,157.55,41674.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,LU,intra_eu27,0.001,218.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,NL,intra_eu27,9.41,2778.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,PL,extra_eu27,11.451,781.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,SE,intra_eu27,1297.913,473400.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,BE,extra_eu27,0.602,428.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,CZ,extra_eu27,242.531,964278.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,CZ,intra_eu27,0.028000000000000004,12070.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,DE,extra_eu27,273.776,12051.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,DE,intra_eu27,1337.076,2039646.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,DK,extra_eu27,0.028999999999999998,250.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,ES,extra_eu27,0.018,168.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,FR,extra_eu27,70.772,147115.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,FR,intra_eu27,528.257,1302766.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,GR,intra_eu27,0.044000000000000004,1297.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,IT,intra_eu27,0.145,3473.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,NL,extra_eu27,8.833,2520.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,PL,extra_eu27,1.173,51.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,PT,intra_eu27,0.30200000000000005,6270.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,SE,extra_eu27,259.795,183230.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,SE,intra_eu27,58.815,34777.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,BE,intra_eu27,6.886,4902.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,DE,extra_eu27,131.12,105693.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,DK,extra_eu27,5.048,5518.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,IT,intra_eu27,169.40200000000002,107877.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,LV,extra_eu27,187.60500000000002,199414.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,SE,extra_eu27,134.353,126400.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,SE,intra_eu27,2045.201,1008401.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,AT,intra_eu27,0.002,814.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,BE,extra_eu27,133.393,2750206.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,BG,intra_eu27,0.009,129.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,CZ,extra_eu27,66.0,231095.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,DE,extra_eu27,364.416,46503.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,DE,intra_eu27,849.674,753523.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,DK,extra_eu27,0.001,29.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,ES,extra_eu27,0.001,9311.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,FR,extra_eu27,82.238,113964.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,FR,intra_eu27,420.40900000000005,423651.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,GR,intra_eu27,0.361,16220.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,IT,intra_eu27,0.1,5631.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,LU,intra_eu27,0.011000000000000001,1069.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,NL,intra_eu27,622.2860000000001,2365291.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,PL,extra_eu27,4.324000000000001,268.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,PT,intra_eu27,0.7370000000000001,53296.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,SE,extra_eu27,518.034,81691.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,SE,intra_eu27,224.093,74011.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,SK,intra_eu27,0.867,42125.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,AT,extra_eu27,1.758,60.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,BE,extra_eu27,0.17200000000000001,1312.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,BE,intra_eu27,368.76,1167085.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,DE,extra_eu27,440.111,365896.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,DK,extra_eu27,5.319,5550.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,ES,extra_eu27,21.726,435.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,IT,intra_eu27,191.087,135506.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,LV,extra_eu27,136.82000000000002,206375.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,PL,extra_eu27,100.82600000000001,104778.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,SE,extra_eu27,773.315,859464.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,SE,intra_eu27,3414.732,625543.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,AT,intra_eu27,0.041,192.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,BE,extra_eu27,26.397000000000006,10901.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,BE,intra_eu27,231.53000000000003,152240.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,CZ,extra_eu27,198.0,586799.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,DE,extra_eu27,209.59699999999998,78032.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,DE,intra_eu27,1304.834,705504.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,FR,extra_eu27,117.79000000000002,165736.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,FR,intra_eu27,91.161,61838.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,IT,intra_eu27,0.03900000000000001,1420.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,PL,extra_eu27,2.1460000000000004,120.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,SE,extra_eu27,127.27300000000001,22176.0,True,True
+85491320,"Spent electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,SE,intra_eu27,257.402,177795.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,AT,intra_eu27,25.001,49841.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,BE,extra_eu27,108.98,144399.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,DE,extra_eu27,382.26800000000003,220548.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,DE,intra_eu27,7054.303,11239138.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,FR,extra_eu27,0.010000000000000002,38739.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,IE,extra_eu27,0.001,34.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,IE,intra_eu27,5.7700000000000005,698.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,NL,extra_eu27,0.05,21.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,NL,intra_eu27,911.773,283497.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,PL,extra_eu27,1134.207,786628.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,RO,intra_eu27,7.135,42580.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,export,SE,intra_eu27,1.564,1448.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,AT,extra_eu27,0.2,9501.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,BE,intra_eu27,85.25200000000001,120054.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,DE,extra_eu27,114.828,7425.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,DE,intra_eu27,0.001,22.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,ES,extra_eu27,810.375,528314.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,LU,intra_eu27,1.083,48686.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,PT,intra_eu27,0.020000000000000004,589.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,RO,intra_eu27,0.001,117.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,SE,extra_eu27,66.772,4.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2022,import,SE,intra_eu27,1050.6580000000001,339740.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,DE,extra_eu27,126.721,112446.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,DE,intra_eu27,8984.050000000001,7859126.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,IE,intra_eu27,11.019,13646.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,NL,extra_eu27,19.675,107435.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,NL,intra_eu27,75.928,43545.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,PL,extra_eu27,1631.3590000000002,2832357.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,PL,intra_eu27,921.8360000000001,2295587.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,RO,intra_eu27,153.38,1.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,SE,intra_eu27,76.329,174968.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,export,SK,extra_eu27,3229.364,8523321.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,BG,intra_eu27,9810.147,629856.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,CZ,extra_eu27,22.118000000000002,96950.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,DE,extra_eu27,0.2,2399.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,DK,intra_eu27,0.009,1630.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,ES,intra_eu27,991.176,3246009.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,FR,intra_eu27,0.0,138907.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,GR,intra_eu27,0.16200000000000003,2861.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,IT,intra_eu27,0.001,29.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,LU,intra_eu27,0.001,18.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,NL,extra_eu27,61.667,73468.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,SE,extra_eu27,475.8,5502.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,SE,intra_eu27,1685.223,620663.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2023,import,SI,intra_eu27,0.6480000000000001,649.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,CZ,extra_eu27,0.011000000000000001,24.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,DE,extra_eu27,683.116,685511.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,DE,intra_eu27,10064.784,2889302.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,DK,intra_eu27,45.82300000000001,109018.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,HR,intra_eu27,22.16,17477.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,IE,intra_eu27,5.382000000000001,7642.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,NL,intra_eu27,14.341999999999999,39568.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,PL,extra_eu27,2335.014,3366496.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,PL,intra_eu27,188.413,252998.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,RO,intra_eu27,155.853,5680.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,SE,extra_eu27,99.736,258976.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,SE,intra_eu27,198.03,599913.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,export,SK,extra_eu27,1944.027,4912138.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,AT,intra_eu27,0.006,1026.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,BE,intra_eu27,0.001,317.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,BG,intra_eu27,4865.118,258740.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,DE,extra_eu27,274.358,84241.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,DK,intra_eu27,41.301,42949.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,ES,extra_eu27,0.053000000000000005,2525.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,ES,intra_eu27,52.111000000000004,32799.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,PL,intra_eu27,0.001,18.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,PT,intra_eu27,0.0,16.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,SE,extra_eu27,16.149,1.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,SE,intra_eu27,866.014,350878.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2024,import,SK,intra_eu27,0.005000000000000001,382.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,DE,extra_eu27,411.474,629434.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,DE,intra_eu27,10437.362000000001,4995505.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,ES,extra_eu27,0.08000000000000002,12608.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,NL,extra_eu27,11.600000000000001,31061.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,NL,intra_eu27,535.273,60062.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,PL,extra_eu27,1134.082,1388255.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,RO,intra_eu27,102.26400000000001,221.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,SE,extra_eu27,24.113,44477.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,SE,intra_eu27,72.928,75629.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,SI,intra_eu27,4.0520000000000005,5032.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,export,SK,extra_eu27,148.62,186544.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,BE,intra_eu27,0.001,71.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,BG,intra_eu27,8264.721000000001,5629925.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,DE,extra_eu27,991.1450000000001,83702.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,DE,intra_eu27,6.7700000000000005,9691.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,DK,extra_eu27,0.06999999999999999,91.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,DK,intra_eu27,0.34800000000000003,118.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,ES,extra_eu27,0.001,957.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,ES,intra_eu27,101.93400000000001,62486.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,GR,intra_eu27,0.375,14948.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,HR,extra_eu27,0.0,1.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,LU,intra_eu27,0.10300000000000001,5615.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,NL,extra_eu27,42.599000000000004,6982.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,NL,intra_eu27,490.88000000000005,33610.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,PT,intra_eu27,12.0,1996.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,SE,extra_eu27,326.12100000000004,36421.0,True,True
+85491390,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted by chemical type, not containing lead, cadmium or mercury",2025,import,SE,intra_eu27,361.62100000000004,357314.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,export,BE,extra_eu27,32.25,91670.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,export,FI,extra_eu27,0.0,1496.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,export,SK,intra_eu27,0.004,231.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,BE,extra_eu27,16.808000000000003,236913.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,BE,intra_eu27,0.002,648.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,DE,extra_eu27,4.7540000000000004,505.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,DK,extra_eu27,0.9900000000000001,104.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,LU,intra_eu27,0.021,372.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,PT,intra_eu27,37.083,462896.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,RO,intra_eu27,0.014000000000000002,1650.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,SE,extra_eu27,0.002,2.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,SK,intra_eu27,0.017,1107.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,export,EE,intra_eu27,1.0,1990.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,export,GR,intra_eu27,0.001,99.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,export,PT,intra_eu27,0.002,176.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,export,SE,intra_eu27,0.001,88.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,BE,extra_eu27,37.968,224996.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,DE,extra_eu27,0.593,1770.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,FI,extra_eu27,3.9990000000000006,2745.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,GR,intra_eu27,0.05500000000000001,2138.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,LU,intra_eu27,0.019000000000000003,1287.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,PT,intra_eu27,0.685,15082.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,RO,intra_eu27,7.2,1976.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,BE,extra_eu27,0.12,30.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,DE,extra_eu27,374.15100000000007,838875.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,DE,intra_eu27,0.015,1.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,ES,extra_eu27,0.014000000000000002,1882.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,GR,intra_eu27,0.001,3885.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,IT,intra_eu27,0.021,24.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,SK,intra_eu27,124.578,278525.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,BE,extra_eu27,7.9830000000000005,242741.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,BE,intra_eu27,49.52,87852.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,ES,intra_eu27,0.30000000000000004,40.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,FR,intra_eu27,0.001,46.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,LU,intra_eu27,0.001,48.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,PT,intra_eu27,0.011000000000000001,2723.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,RO,intra_eu27,4.705,1290.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,export,DE,extra_eu27,866.823,2257594.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,export,FI,intra_eu27,20.47,1.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,export,IT,intra_eu27,0.073,204.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,export,NL,extra_eu27,1035.51,779382.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,export,SK,intra_eu27,196.39200000000002,650352.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,BE,intra_eu27,0.8720000000000001,2549.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,DE,extra_eu27,230.38800000000003,341500.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,DE,intra_eu27,109.104,321890.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,GR,intra_eu27,0.377,8176.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,NL,extra_eu27,213.64000000000001,72877.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,PT,intra_eu27,0.04000000000000001,586.0,True,True
+85491420,"Spent electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,SE,extra_eu27,0.002,716.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,export,AT,extra_eu27,0.27,500.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,export,CZ,extra_eu27,16.157,325063.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,export,CZ,intra_eu27,47.286,39639.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,export,ES,intra_eu27,1.529,14030.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,export,HU,extra_eu27,0.017,49633.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,export,HU,intra_eu27,408.336,363217.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,export,PL,intra_eu27,3231.069,11598132.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,export,RO,intra_eu27,917.1840000000001,221873.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,export,SE,intra_eu27,41.244,36570.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,BE,extra_eu27,0.5690000000000001,9104.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,ES,intra_eu27,537.744,2661232.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,FI,intra_eu27,136.32500000000002,735600.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,FR,extra_eu27,0.09300000000000001,12005.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,HU,intra_eu27,0.258,622177.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,IT,intra_eu27,0.25,552.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,LT,intra_eu27,15.292,9481.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,LU,intra_eu27,0.7090000000000001,270.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,PT,intra_eu27,32.248000000000005,38053.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,RO,intra_eu27,0.001,117.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2022,import,SE,extra_eu27,0.010000000000000002,284.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,export,BE,extra_eu27,123.474,378858.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,export,CZ,extra_eu27,2.559,195533.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,export,CZ,intra_eu27,995.475,827200.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,export,DE,extra_eu27,51.625,155156.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,export,IT,intra_eu27,0.205,21.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,export,NL,extra_eu27,84.397,255279.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,export,NL,intra_eu27,4426.158,5429815.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,export,PL,intra_eu27,43.85,128246.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,export,PT,intra_eu27,52.34,45959.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,export,RO,intra_eu27,400.40000000000003,82082.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,DE,intra_eu27,164.409,1441069.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,DK,intra_eu27,0.05,7553.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,ES,intra_eu27,939.725,3629485.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,FI,intra_eu27,2792.78,2103580.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,GR,intra_eu27,0.001,64.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,HU,intra_eu27,994.259,4114748.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,IT,intra_eu27,5.885000000000001,161288.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,LT,intra_eu27,0.015,4397.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,NL,extra_eu27,396.56300000000005,416774.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,NL,intra_eu27,2822.7360000000003,3932140.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,PT,extra_eu27,0.022000000000000002,17.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,PT,intra_eu27,76.676,99283.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,SE,extra_eu27,110.26300000000002,5.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2023,import,SK,intra_eu27,0.002,45.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,BE,extra_eu27,21.521,11701.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,DE,extra_eu27,263.206,1440329.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,FR,intra_eu27,98.46300000000001,142778.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,LV,extra_eu27,0.028000000000000004,1205.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,NL,extra_eu27,228.64800000000002,543994.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,NL,intra_eu27,9187.02,12872801.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,RO,intra_eu27,153.547,29635.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,SE,extra_eu27,0.009,6594.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,SE,intra_eu27,8.571,26300.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,export,SI,intra_eu27,12.815000000000001,11149.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,DE,intra_eu27,354.579,1224867.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,DK,intra_eu27,3.9170000000000003,4499.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,ES,intra_eu27,199.61400000000003,433648.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,FI,intra_eu27,1921.5169999999998,651956.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,FR,intra_eu27,39.69,95977.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,HR,intra_eu27,0.06,1000.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,IT,intra_eu27,1.986,18995.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,NL,extra_eu27,334.03000000000003,126136.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,NL,intra_eu27,8828.137,13837976.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,PL,intra_eu27,181.05,36949.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,SE,extra_eu27,517.673,17953.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2024,import,SK,intra_eu27,0.001,10.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,export,BE,intra_eu27,106.11800000000001,194587.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,export,DE,extra_eu27,154.587,87804.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,export,DE,intra_eu27,40.22,29658.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,export,ES,intra_eu27,821.509,235152.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,export,FR,intra_eu27,32.339999999999996,51485.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,export,GR,intra_eu27,0.013000000000000001,127.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,export,IT,intra_eu27,0.146,144647.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,export,NL,extra_eu27,0.44000000000000006,948.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,export,NL,intra_eu27,7864.237,15370395.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,export,PL,intra_eu27,0.006,57.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,export,RO,intra_eu27,10.350000000000001,2823.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,BE,intra_eu27,49.807,202049.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,DE,intra_eu27,232.739,809582.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,DK,extra_eu27,0.065,20.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,ES,extra_eu27,0.196,16150.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,ES,intra_eu27,585.558,731205.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,FI,intra_eu27,44.765,15192.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,FR,intra_eu27,0.42500000000000004,1552.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,HR,intra_eu27,0.016,4698.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,IT,intra_eu27,1.92,85710.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,LU,intra_eu27,0.003,30.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,NL,extra_eu27,0.11499999999999999,98712.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,NL,intra_eu27,7820.899000000001,13321222.0,True,True
+85491490,"Waste and scrap of primary cells, primary batteries and electric accumulators, unsorted, not containing lead, cadmium or mercury",2025,import,SE,extra_eu27,432.809,28.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,DE,intra_eu27,4.835000000000001,920.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,ES,extra_eu27,0.004,15785.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,ES,intra_eu27,0.5950000000000001,6380.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,FR,intra_eu27,0.001,4.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,HU,extra_eu27,582.7510000000001,768037.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,LV,intra_eu27,1087.536,851499.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,NL,intra_eu27,79.486,7150.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,SE,intra_eu27,156.856,153187.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,AT,intra_eu27,0.001,1112.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,CZ,intra_eu27,0.0,3.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,DE,extra_eu27,118.908,16491.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,ES,extra_eu27,0.03900000000000001,7137.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,ES,intra_eu27,3.7200000000000006,20459.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,FR,intra_eu27,0.21000000000000002,3071.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,GR,intra_eu27,5.65,37927.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,IE,extra_eu27,0.003,674.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,LU,intra_eu27,0.003,55.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,LV,intra_eu27,61.751000000000005,60226.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,NL,extra_eu27,66.97200000000001,2100.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,PT,intra_eu27,0.001,1353.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,RO,intra_eu27,0.014000000000000002,1650.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,SK,intra_eu27,0.005000000000000001,316.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,CZ,intra_eu27,0.0,292.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,FR,intra_eu27,0.010000000000000002,147.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,HU,extra_eu27,95.67500000000001,135208.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,LV,intra_eu27,317.02500000000003,257253.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,NL,intra_eu27,56.175000000000004,2441.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,PL,extra_eu27,2902.864,8269121.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,SE,intra_eu27,153.328,127632.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,SK,intra_eu27,0.002,146.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,CZ,intra_eu27,35.555,12875.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,ES,extra_eu27,0.037,7122.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,FI,extra_eu27,39.951,91907.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,FR,intra_eu27,0.7570000000000001,10049.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,GR,intra_eu27,10.901000000000002,146800.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,LU,intra_eu27,0.004,5139.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,LV,intra_eu27,91.387,105849.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,NL,extra_eu27,70.763,2450.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,NL,intra_eu27,0.003,396.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,PT,intra_eu27,0.03,199.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,DE,extra_eu27,205.306,46652.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,FR,extra_eu27,0.0,78.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,GR,intra_eu27,0.002,423.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,LV,intra_eu27,9.627,9209.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,PL,extra_eu27,3434.9339999999997,5335850.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,SE,extra_eu27,0.004,4.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,SE,intra_eu27,186.472,168520.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,AT,intra_eu27,0.048,8696.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,DE,extra_eu27,32.679,6933.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,DE,intra_eu27,0.18600000000000003,327.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,ES,extra_eu27,0.034,87.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,FI,extra_eu27,70.72200000000001,164043.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,FR,extra_eu27,0.010000000000000002,470.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,FR,intra_eu27,0.067,14323.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,GR,intra_eu27,0.205,3551.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,LU,intra_eu27,0.15000000000000002,10185.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,LV,intra_eu27,117.109,165688.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,PT,intra_eu27,0.049,1914.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,SE,extra_eu27,1756.68,8927490.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,AT,extra_eu27,0.026000000000000002,3268.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,AT,intra_eu27,23.44,470063.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,DK,extra_eu27,0.011000000000000001,44.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,GR,intra_eu27,13.164,67695.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,LV,intra_eu27,553.932,398217.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,PL,extra_eu27,4604.349,7514863.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,PL,intra_eu27,0.005000000000000001,225.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,PT,intra_eu27,49.1,28969.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,SE,intra_eu27,6.007000000000001,5421.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,AT,intra_eu27,0.024,1372.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,BE,intra_eu27,0.168,3513.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,DE,extra_eu27,8.522,3249.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,DE,intra_eu27,0.18700000000000003,372.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,ES,extra_eu27,0.011000000000000001,102.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,FR,intra_eu27,4.432,18676.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,GR,intra_eu27,3.615,17725.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,LU,intra_eu27,0.002,1228.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,LV,intra_eu27,8.64,9479.0,True,True
+85491920,"Spent electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,SE,extra_eu27,375.195,1842075.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,BE,extra_eu27,0.002,101.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,BE,intra_eu27,212.82800000000003,212459.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,DE,extra_eu27,0.025,219.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,DE,intra_eu27,178.531,44313.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,FR,extra_eu27,0.005000000000000001,874.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,GR,intra_eu27,35.0,199990.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,HU,extra_eu27,406.666,645438.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,IT,extra_eu27,0.033,29933.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,IT,intra_eu27,1669.111,2705794.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,LU,intra_eu27,4.033,8706.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,NL,extra_eu27,531.0500000000001,1016213.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,NL,intra_eu27,2934.1900000000005,3628322.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,PL,extra_eu27,2027.6310000000003,17816086.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,PL,intra_eu27,23.86,17961.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,PT,intra_eu27,48.825,42883.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,RO,intra_eu27,164.934,44231.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,export,SE,extra_eu27,0.083,1100.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,BE,extra_eu27,31.933,30099.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,BE,intra_eu27,228.979,131800.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,BG,intra_eu27,0.001,38.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,CZ,extra_eu27,0.020000000000000004,2793.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,CZ,intra_eu27,3.818,25023.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,DE,extra_eu27,38.783,10152.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,DE,intra_eu27,1.428,3615.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,DK,extra_eu27,73.257,38683.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,ES,intra_eu27,0.195,6247.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,FR,extra_eu27,0.9060000000000001,1008.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,FR,intra_eu27,0.005000000000000001,640.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,HU,intra_eu27,0.096,113255.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,IE,extra_eu27,0.017,337.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,IT,extra_eu27,0.08000000000000002,16108.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,IT,intra_eu27,0.446,56074.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,LT,intra_eu27,0.442,6274.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,LU,intra_eu27,0.015,94.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,NL,extra_eu27,270.82800000000003,221134.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,PL,intra_eu27,0.010000000000000002,2037.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,RO,extra_eu27,0.03,1022.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,RO,intra_eu27,1.032,71707.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,SE,extra_eu27,29.860000000000003,1.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,SE,intra_eu27,0.001,97.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2022,import,SI,intra_eu27,19.1,11742.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,AT,extra_eu27,0.0,6.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,BE,extra_eu27,110.69500000000001,149260.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,BE,intra_eu27,859.855,299095.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,DE,intra_eu27,5.598,4974.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,DK,intra_eu27,0.014000000000000002,377.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,ES,extra_eu27,118.147,335239.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,ES,intra_eu27,8.5,6375.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,FI,extra_eu27,12.016,152100.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,FI,intra_eu27,0.004,20.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,FR,extra_eu27,0.002,1321.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,FR,intra_eu27,0.013000000000000001,18.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,IT,extra_eu27,2.455,206987.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,IT,intra_eu27,629.282,1697722.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,LV,intra_eu27,11.63,10372.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,NL,extra_eu27,376.58400000000006,459265.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,NL,intra_eu27,2720.161,3522115.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,PL,extra_eu27,881.6930000000001,6171219.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,RO,intra_eu27,4.324000000000001,46.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,export,SE,extra_eu27,812.672,258210.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,BE,extra_eu27,0.005000000000000001,6584.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,BE,intra_eu27,829.5459999999999,437234.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,CZ,intra_eu27,408.07,260784.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,DE,extra_eu27,36.379000000000005,26032.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,DK,extra_eu27,69.83200000000001,37134.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,DK,intra_eu27,0.342,13450.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,ES,extra_eu27,28.005000000000003,20908.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,ES,intra_eu27,0.096,3549.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,FI,extra_eu27,24.1,2769.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,FR,extra_eu27,2.0180000000000002,9156.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,GR,intra_eu27,0.25,17183.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,IE,extra_eu27,0.001,1.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,IE,intra_eu27,0.05,3760.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,IT,extra_eu27,0.125,9507.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,IT,intra_eu27,0.7690000000000001,84582.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,LT,intra_eu27,0.019000000000000003,1261.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,LU,intra_eu27,0.003,11.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,NL,extra_eu27,664.582,514578.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,NL,intra_eu27,131.656,156010.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,RO,intra_eu27,0.034,1305.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,SE,extra_eu27,27.058999999999997,2763.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,SE,intra_eu27,0.202,1555.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2023,import,SI,intra_eu27,609.949,420799.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,AT,extra_eu27,0.001,99.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,BE,extra_eu27,138.18,202121.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,BE,intra_eu27,250.58000000000004,184290.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,BG,extra_eu27,20.433000000000003,14467.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,DE,extra_eu27,55.74,280735.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,DE,intra_eu27,179.03,89138.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,DK,intra_eu27,0.045000000000000005,1381.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,ES,extra_eu27,24.829,20081.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,ES,intra_eu27,15.106000000000002,23758.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,FI,extra_eu27,0.003,855.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,FR,extra_eu27,0.53,3779.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,GR,intra_eu27,0.06899999999999999,1291.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,HU,extra_eu27,2883.927,5295329.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,IT,extra_eu27,0.004,8613.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,IT,intra_eu27,1045.896,2795962.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,LT,extra_eu27,65.16799999999999,45748.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,LV,intra_eu27,2.397,461.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,NL,extra_eu27,60.487,312733.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,NL,intra_eu27,1771.277,4002992.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,PL,extra_eu27,1813.593,7365438.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,PL,intra_eu27,50.624,20883.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,RO,intra_eu27,36.483,36.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,SE,extra_eu27,6882.573,2131714.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,export,SK,intra_eu27,1.576,6784.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,BE,intra_eu27,720.8560000000001,395435.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,CZ,intra_eu27,228.08000000000004,98715.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,DE,extra_eu27,66.85900000000001,69304.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,DE,intra_eu27,165.092,166346.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,DK,extra_eu27,88.206,43607.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,DK,intra_eu27,0.08900000000000001,987.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,ES,extra_eu27,50.38,22963.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,ES,intra_eu27,0.307,19649.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,FI,extra_eu27,82.69400000000002,11612.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,FR,extra_eu27,0.051000000000000004,1863.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,FR,intra_eu27,0.001,4.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,HR,intra_eu27,1.8710000000000002,4433.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,IT,extra_eu27,0.134,11745.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,IT,intra_eu27,7.890000000000001,244125.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,LU,intra_eu27,0.219,30995.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,NL,extra_eu27,428.283,750932.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,NL,intra_eu27,1502.602,3754294.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,PL,extra_eu27,534.886,121393.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,PL,intra_eu27,38.005,19611.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,PT,extra_eu27,0.001,3320.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,PT,intra_eu27,0.004,1379.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,RO,intra_eu27,0.031,1163.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,SE,extra_eu27,49.80500000000001,47489.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2024,import,SI,intra_eu27,1742.7640000000001,1255793.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,AT,intra_eu27,24.37,57379.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,BE,extra_eu27,18.06,28794.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,BE,intra_eu27,314.606,255168.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,CY,extra_eu27,9.0,80000.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,ES,intra_eu27,26.35,91200.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,FI,extra_eu27,0.0,10.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,FR,extra_eu27,9.163,1484.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,IT,extra_eu27,0.045000000000000005,26285.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,IT,intra_eu27,1108.3600000000001,3335891.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,LT,extra_eu27,40.663000000000004,23430.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,LV,intra_eu27,4.138000000000001,968.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,NL,extra_eu27,508.87700000000007,1724926.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,NL,intra_eu27,349.345,462309.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,PL,extra_eu27,1750.1220000000003,7742360.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,PL,intra_eu27,23.0,6429.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,RO,intra_eu27,64.902,170912.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,export,SE,extra_eu27,5720.27,2048791.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,AT,extra_eu27,0.0,4.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,BE,extra_eu27,0.002,1788.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,BE,intra_eu27,556.9390000000001,171896.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,BG,extra_eu27,0.0,2.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,CZ,intra_eu27,95.0,26856.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,DE,extra_eu27,202.18200000000002,122984.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,DE,intra_eu27,751.169,1078409.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,DK,extra_eu27,134.991,46878.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,ES,extra_eu27,104.553,43231.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,ES,intra_eu27,52.17000000000001,107598.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,FI,extra_eu27,7.069,4805.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,FR,extra_eu27,13.923,205.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,FR,intra_eu27,0.431,1440.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,GR,intra_eu27,2.907,32730.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,HU,extra_eu27,0.097,3.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,IE,extra_eu27,0.028999999999999998,3458.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,IE,intra_eu27,0.028000000000000004,13850.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,IT,extra_eu27,0.08000000000000002,14387.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,IT,intra_eu27,74.902,124058.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,LT,extra_eu27,0.002,787.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,LU,intra_eu27,0.008,803.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,NL,extra_eu27,141.317,57269.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,NL,intra_eu27,0.06,457.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,PL,extra_eu27,637.4490000000001,474759.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,PL,intra_eu27,739.97,2931302.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,PT,extra_eu27,0.9,1221.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,RO,intra_eu27,0.052000000000000005,184.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,SE,extra_eu27,22.531000000000002,1384.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,SE,intra_eu27,0.001,105.0,True,True
+85491990,"Waste and scrap of primary cells, primary batteries and electric accumulators, sorted but not by chemical type, not containing lead, cadmium or mercury",2025,import,SI,intra_eu27,1014.44,697360.0,True,True

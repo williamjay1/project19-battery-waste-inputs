@@ -1,0 +1,28 @@
+{
+  "title": "Battery-waste recycling input identification: reproducibility software",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "junjiezhang"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "keywords": [
+    "battery waste",
+    "material flow",
+    "scope identification",
+    "reproducibility",
+    "Europe"
+  ],
+  "description": "Software for report-conditioned battery-waste input identification and deterministic assumption stresses. MIT covers original software only; embedded Eurostat/UBA/ILT data retain their source-specific conditions, including the Austria-declared CN8 commercial-use restriction. Basel raw records and Basel-derived numerical result/display files are not included. The study does not identify actual EV flow or facility receipts. See DATA_REUSE.md and the per-file release manifest. No blanket licence is granted over third-party data.",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/williamjay1/project19-battery-waste-inputs",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    }
+  ]
+}

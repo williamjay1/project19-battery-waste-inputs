@@ -1,0 +1,152 @@
+﻿notification_id,application_type,decision,notifier_country_source,processor_country_source,waste_description,OECD_code,Basel_code,LoW_code,D_R_codes,planned_tonnes,planned_shipments,planned_first_departure,planned_last_departure,decision_date
+NL740860,Uitvoer,Bezwaar,NLD,DUI,Lithium-thionylbatterijen,niet ingedeeld,A1170,"20 01 33*, 20 01 35*","D10, D14",50,50,1-5-2026,30-4-2027,3-7-2026
+NL740857,Uitvoer,Bezwaar,NLD,DUI,Lithiumbatterijen (met PFAS) en kleine elektronische apparaten,niet ingedeeld,A1181,"16 02 13*, 16 02 15*",D10,50,50,1-5-2026,30-4-2027,25-6-2026
+NL742187,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,12000,520,1-7-2026,18-05-2029,26-5-2026
+NL739511,Uitvoer,Toestemming,NLD,DUI,Afval NiCd Batterijen,niet ingedeeld,A1170,16 06 02*,R4,1050,70,1-4-2026,30-03-2029,22-5-2026
+NL737236,Uitvoer,Toestemming,NLD,DUI,gebruikte lithium-ion batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R12",1000,50,21-5-2026,20-05-2027,21-5-2026
+NL739539,Uitvoer,Toestemming,NLD,DUI,Nikkelcadmiumbatterijen,niet ingedeeld,A1170,16 06 02*,R4,210,14,1-4-2026,30-03-2029,21-5-2026
+NL740360,Uitvoer,Toestemming,NLD,DUI,Lithium-ionbatterijen,niet ingedeeld,A1170,16 01 21*,R4,1500,150,18-5-2026,17-05-2027,21-5-2026
+NL741927,Uitvoer,Toestemming,NLD,DUI,Li-Ion batterijen,niet ingedeeld,A1170,"16 02 15*, 20 01 33*","R4, R12",50,10,4-5-2026,03-05-2027,21-5-2026
+NL741926,Uitvoer,Toestemming,NLD,DUI,Elektronische apparatuur met ingebouwde batterijen,niet ingedeeld,niet ingedeeld,16 02 13*,R4,25,5,04-05-2026,03-05-2027,19-5-2026
+NL739509,Uitvoer,Toestemming,NLD,DUI,Afval Li-ion batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R12",1000,67,01-04-2026,30-03-2027,18-5-2026
+NL739531,Uitvoer,Toestemming,NLD,DUI,Lithium-ion-batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R12",250,17,01-04-2026,30-03-2027,18-5-2026
+NL739535,Uitvoer,Toestemming,NLD,DUI,Lithiumbatterijen,niet ingedeeld,A1170,20 01 33*,"R4, R12",30,2,01-04-2026,30-03-2027,18-5-2026
+NL742192,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,"R4, R12",5000,350,04-06-2026,20-05-2027,18-5-2026
+NL694236,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,15000,900,01-09-2026,20-05-2029,7-5-2026
+NL741923,Uitvoer,Toestemming,NLD,DUI,Li-Ion batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R13",50,20,04-05-2026,03-05-2027,7-5-2026
+NL742733,Uitvoer,Toestemming,NLD,DUI,"Accu's voor elektrische voertuigen (EV-modules), industriële accu's, mobiele accu's",niet ingedeeld,A1170,"16 01 21*, 20 01 33*","R4, R12, R13",1000,100,4-5-2026,3-5-2027,9-4-2026
+NL737294,Uitvoer,Bezwaar,NLD,DUI,Gebruikte lithium batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R12",100,7,1-12-2025,30-11-2026,9-4-2026
+NL739541,Uitvoer,Toestemming,NLD,DUI,Batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R12",60,4,1-4-2026,31-3-2029,3-4-2026
+NL741370,Uitvoer,Toestemming,NLD,DUI,"Afval, lithium-ionbatterijen",niet ingedeeld,A1170,20 01 33*,"R4, R12",3000,200,1-8-2026,15-5-2027,31-3-2026
+NL738741,Uitvoer,Toestemming,NLD,DUI,"Loodaccu's, voor samenstelling zie bijlage",niet ingedeeld,A1160,16 06 01*,"R4, R12",5000,350,1-11-2025,31-10-2026,12-3-2026
+NL738521,Uitvoer,Toestemming,NLD,DUI,Lithium(-ion)batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R12",2000,100,15-2-2026,14-2-2027,27-2-2026
+NL694001,Uitvoer,Toestemming,NLD,DUI,Lithium-ionbatterijen,niet ingedeeld,A1170,16 01 21*,"R12, R4, R13",400,200,1-2-2026,31-1-2027,27-2-2026
+NL733739,Uitvoer,Toestemming,NLD,DUI,Lithium Ion-Batterijen,niet ingedeeld,A1170,20 01 33*,R4,1800,120,1-11-2026,19-5-2029,6-2-2026
+NL693462,Uitvoer,Toestemming,NLD,DUI,Lithium Thionylchloride Batterijen,niet ingedeeld,A1170,16 02 15*,D10,20,15,1-2-2026,31-1-2027,28-1-2026
+NL732286,Uitvoer,Toestemming,NLD,DUI,Lithium-ion batterijen,niet ingedeeld,A1170,16 01 21*,"R4, R12",1500,150,1-12-2025,30-11-2026,14-1-2026
+NL737598,Uitvoer,Toestemming,NLD,DUI,Lithium ion batterijen,niet ingedeeld,A1170,16 01 21*,"R4, R12",1500,150,15-1-2026,14-1-2027,11-12-2025
+NL717068,Uitvoer,Ingetrokken kennisgeving,NLD,DUI,Nikkelcadmium batterijen,niet ingedeeld,A1170,"16 06 02*, 20 01 33*",R4,2100,225,2-10-2023,2-12-2025,2-12-2025
+NL738518,Uitvoer,Toestemming,NLD,DUI,Loodzuuraccu's,niet ingedeeld,A1160,16 06 01*,R4,30000,1200,1-3-2026,28-2-2029,1-12-2025
+NL738622,Uitvoer,Toestemming,NLD,DUI,Lithium(-ion)batterijen,niet ingedeeld,A1170,20 01 33*,"R1, R4, R12",2000,100,1-4-2026,31-3-2027,12-11-2025
+NL739034,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,3000,120,1-11-2025,31-10-2026,10-11-2025
+NL738413,Uitvoer,Toestemming,NLD,DUI,Lithium(-ion)batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R13",500,25,1-11-2025,31-10-2026,3-11-2025
+NL614750,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,10000,500,1-10-2025,30-9-2028,30-10-2025
+NL693278,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,15000,800,1-9-2025,31-8-2028,22-10-2025
+NL694095,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,15000,800,3-11-2025,2-11-2028,22-10-2025
+NL736406,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,50000,4000,15-8-2025,14-8-2028,20-10-2025
+NL687781,Uitvoer,Toestemming,NLD,DUI,Ontkwikte knoopcelbatterijen,niet ingedeeld,A1170,19 02 11*,R4,50,15,1-12-2025,30-11-2026,14-10-2025
+NL736005,Uitvoer,Toestemming,NLD,DUI,Lithium-ion-accu's,niet ingedeeld,A1170,"16 01 21*, 16 02 15*, 20 01 33*","R4, R13",300,20,3-11-2025,2-11-2026,1-10-2025
+NL732743,Uitvoer,Toestemming,NLD,DUI,Lithium-ion-accu's,niet ingedeeld,A1170,"16 01 21*, 16 02 15*, 20 01 33*","R4, R12",300,20,1-8-2025,30-4-2026,15-9-2025
+NL735158,Uitvoer,Toestemming,NLD,DUI,Lithium knoopcellen (bevat kwik),niet ingedeeld,A1170,20 01 33*,"R4, R12",100,7,1-10-2025,30-9-2026,11-9-2025
+NL734377,Uitvoer,Toestemming,NLD,DUI,Lithium-thionylbatterijen,niet ingedeeld,A1170,"20 01 33*, 20 01 35*","D10, D14",50,50,1-10-2025,30-9-2026,18-8-2025
+NL734816,Uitvoer,Toestemming,NLD,DUI,"Gesorteerde, gemengde batterijen",niet ingedeeld,A1170,"16 06 02*, 20 01 33*","R4, R12, R5, R1",3000,150,9-6-2025,8-6-2028,30-7-2025
+NL735106,Uitvoer,Toestemming,NLD,DUI,Lithiumbatterijen (met PFAS) en kleine elektronische apparaten,niet ingedeeld,A1181,"16 02 13*, 16 02 15*",D10,50,50,1-10-2025,30-9-2026,1-7-2025
+NL734683,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,15000,650,1-5-2025,30-4-2028,2-6-2025
+NL734842,Uitvoer,Toestemming,NLD,DUI,Li-ion batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R12",3000,150,2-6-2025,1-6-2026,28-5-2025
+NL733089,Uitvoer,Toestemming,NLD,DUI,Batterijen,niet ingedeeld,A1170,16 06 03*,R4,150,10,1-6-2025,31-5-2028,21-5-2025
+NL623954,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,"R4, R12",5000,350,4-6-2025,3-6-2026,15-5-2025
+NL733088,Uitvoer,Toestemming,NLD,DUI,"Afval, lithium(-ion) batterijen",niet ingedeeld,A1170,20 01 33*,"R4, R12",3000,200,1-8-2025,31-7-2026,3-4-2025
+NL727280,Uitvoer,Toestemming,NLD,DUI,Lithiumbatterijen,niet ingedeeld,A1170,"16 02 13*, 16 02 15*",D10,50,50,1-10-2024,30-9-2025,27-3-2025
+NL728534,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,6000,240,1-1-2025,31-12-2027,19-2-2025
+NL729678,Uitvoer,Toestemming,NLD,DUI,Lithium-ion-batterijen,niet ingedeeld,A1170,20 01 33*,"R3, R4, R12",2000,100,1-4-2025,31-3-2026,3-2-2025
+NL724188,Uitvoer,Toestemming,NLD,DUI,Lithium-ion batterijen,niet ingedeeld,A1170,16 01 21*,"R4, R12",1500,150,1-12-2024,30-11-2025,24-12-2024
+NL717145,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1170,20 01 33*,R4,500,25,1-12-2024,30-11-2025,26-11-2024
+NL728209,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,15750,525,1-10-2024,30-9-2027,22-11-2024
+NL729676,Uitvoer,Toestemming,NLD,DUI,Lithium(-ion) batterijen,niet ingedeeld,A1170,16 06 05,"R4, R12",2000,100,15-2-2025,14-2-2026,22-11-2024
+NL726953,Uitvoer,Toestemming,NLD,DUI,Batterijen,niet ingedeeld,A1170,16 06 02*,R4,1500,75,1-1-2025,31-12-2027,17-10-2024
+NL726015,Uitvoer,Toestemming,NLD,DUI,Li-Ion batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R13",600,50,17-10-2024,16-10-2025,9-10-2024
+NL717336,Uitvoer,Toestemming,NLD,DUI,Lithium-ion-accu's,niet ingedeeld,A1170,16 01 21*,R4,1000,75,1-9-2024,31-8-2025,25-9-2024
+NL712697,Uitvoer,Toestemming,NLD,DUI,Lithium-ion-accu’s,niet ingedeeld,A1170,20 01 33*,R4,300,20,1-11-2024,31-10-2025,16-9-2024
+NL693264,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,4500,340,1-9-2024,31-8-2027,5-9-2024
+NL727281,Uitvoer,Toestemming,NLD,DUI,Lithium-thionylbatterijen,niet ingedeeld,A1170,"20 01 33*, 20 01 35*","D10, D13",50,50,1-10-2024,30-9-2025,3-9-2024
+NL724186,Uitvoer,Toestemming,NLD,DUI,Lithium-ion batterijen,niet ingedeeld,A1170,16 01 21*,"R12, R13, R4",1000,100,17-6-2024,16-6-2025,24-7-2024
+NL722695,Uitvoer,Toestemming,NLD,DUI,Lithium-ion-accu's,niet ingedeeld,A1170,"20 01 33*, 16 01 21*, 16 02 15*","R4, R12",1500,100,1-8-2024,31-7-2025,8-7-2024
+NL722589,Uitvoer,Toestemming,NLD,DUI,Lithium-ion-accu’s,niet ingedeeld,A1170,"16 01 21*, 20 01 33*","R4, R13",1000,100,9-4-2024,8-4-2025,5-6-2024
+NL722945,Uitvoer,Toestemming,NLD,DUI,Lithium-ion batterijen,niet ingedeeld,A1170,16 01 21*,R4,2000,200,1-8-2024,31-7-2027,28-5-2024
+NL623952,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,"R12, R4",5000,350,4-6-2024,3-6-2025,27-5-2024
+NL715282,Uitvoer,Toestemming,NLD,DUI,Loodaccu’s,niet ingedeeld,A1160,16 06 01*,R4,6000,240,1-3-2024,28-2-2027,4-4-2024
+NL693262,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,3000,300,1-4-2024,31-3-2027,26-3-2024
+NL721396,Uitvoer,Toestemming,NLD,DUI,Lithium-ion-accu’s,niet ingedeeld,A1170,20 01 33*,"R3, R4, R12",1000,50,1-4-2024,31-3-2025,11-3-2024
+NL623948,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,50000,4000,1-2-2024,31-1-2027,5-3-2024
+NL716903,Uitvoer,Toestemming,NLD,DUI,Lithium-ion batterijen,niet ingedeeld,A1170,"16 06 05, 20 01 33*","R4, R12",700,75,2-10-2023,1-10-2024,15-1-2024
+NL623949,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,12000,520,1-12-2023,1-12-2026,21-12-2023
+NL693229,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,45000,1500,1-3-2024,28-2-2027,19-12-2023
+NL693223,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,18000,900,1-4-2024,31-3-2027,18-12-2023
+NL718408,Uitvoer,Toestemming,NLD,DUI,Lithium-ionbatterijen,niet ingedeeld,A1170,"20 01 33*, 16 06 05","R4, R12",2000,100,15-2-2024,14-2-2025,15-12-2023
+NL716937,Uitvoer,Toestemming,NLD,DUI,Lithium-ion batterijen,niet ingedeeld,A1170,"20 01 33* , 16 01 21* , 16 02 15*","R4 , R12",1500,100,1-12-2023,30-11-2024,26-11-2023
+NL716781,Uitvoer,Toestemming,NLD,DUI,Lithium-ion batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R13",600,50,17-10-2023,16-10-2024,23-10-2023
+NL715993,Uitvoer,Toestemming,NLD,DUI,Lithium-ion batterijen,niet ingedeeld,A1170,"20 01 33*, 16 01 21*, 16 02 15*","R4, R13",400,20,1-11-2023,31-10-2024,28-9-2023
+NL677298,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,15000,900,1-9-2023,31-8-2026,30-8-2023
+NL623947,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,50000,4000,1-11-2023,31-10-2026,3-8-2023
+NL714230,Uitvoer,Toestemming,NLD,DUI,Lithium-ion batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R12, R3, R1",500,25,1-4-2023,31-3-2024,5-7-2023
+NL677281,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,6000,300,1-6-2023,31-5-2026,22-5-2023
+NL708785,Uitvoer,Toestemming,NLD,DUI,Lithium-ion Batteries,niet ingedeeld,A1170,16 02 15*,"R4, R12",150,15,15-2-2023,14-2-2024,2-5-2023
+NL709785,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,30000,1200,1-3-2023,28-2-2026,29-3-2023
+NL623946,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,"R4, R12",5000,350,4-6-2023,3-6-2024,6-3-2023
+NL677294,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,15000,780,1-3-2023,29-2-2024,6-3-2023
+NL677295,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,5000,275,1-2-2023,31-1-2024,21-2-2023
+NL709783,Uitvoer,Toestemming,NLD,DUI,lithium-ion batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R12",2000,100,15-2-2023,14-2-2024,27-1-2023
+NL623945,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,20000,1000,1-4-2023,31-3-2024,19-12-2022
+NL706343,Uitvoer,Toestemming,NLD,DUI,Lithium-ion batterijen.,niet ingedeeld,A1170,"20 01 33*, 16 02 15*, 16 01 21*","R4, R12",1500,100,1-1-2023,31-12-2023,12-12-2022
+NL708989,Uitvoer,Toestemming,NLD,DUI,Li-Ion batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R13",600,50,17-10-2022,16-10-2023,27-10-2022
+NL705301,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,2000,80,1-9-2022,31-8-2023,14-9-2022
+NL623944,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,20000,1000,1-11-2022,31-10-2023,16-8-2022
+NL677284,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,5000,300,1-9-2022,31-8-2023,8-8-2022
+NL702491,Uitvoer,Toestemming,NLD,DUI,Lithium-ion batterijen,niet ingedeeld,A1170,20 01 33*,"R1, R12, R4",300,20,3-5-2022,2-5-2023,4-5-2022
+NL623941,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,15000,1000,1-4-2022,31-3-2023,5-4-2022
+NL623942,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,"R4, R12",5000,350,4-6-2022,3-6-2023,21-3-2022
+NL702771,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,10000,400,1-3-2022,28-2-2023,25-2-2022
+NL702519,Uitvoer,Toestemming,NLD,DUI,Lithium ion batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R12",2000,100,15-2-2022,14-2-2023,11-2-2022
+NL704381,Uitvoer,Toestemming,NLD,DUI,"Kwikhoudende batterijen, knoopcellen",niet ingedeeld,A1170,16 06 03*,R4,150,10,1-6-2022,31-5-2025,3-2-2022
+NL677273,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,5000,275,1-2-2022,31-1-2023,16-12-2021
+NL677272,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,15000,780,1-3-2022,28-2-2023,8-12-2021
+NL702432,Uitvoer,Toestemming,NLD,DUI,NiCd batterijen,niet ingedeeld,A1170,16 06 02*,R4,1500,75,1-1-2022,31-12-2024,7-12-2021
+NL677264,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,5000,300,1-9-2021,31-8-2022,30-11-2021
+NL692201,Uitvoer,Toestemming,NLD,DUI,lithium ion batterijen,niet ingedeeld,A1170,16 01 21*,R4,1500,100,1-8-2021,31-7-2024,29-9-2021
+NL701715,Uitvoer,Toestemming,NLD,DUI,lithium ion batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R12",1500,100,1-9-2021,31-8-2022,12-9-2021
+NL623940,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,20000,1000,1-11-2021,31-10-2022,8-9-2021
+NL623939,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,10000,700,1-7-2021,30-6-2022,29-6-2021
+NL700814,Uitvoer,Toestemming,NLD,DUI,Lithium-ionbatterijen,niet ingedeeld,A1170,"20 01 33*, 16 01 21*",R4,200,20,1-6-2021,31-5-2022,10-6-2021
+NL701860,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,2000,100,1-6-2021,31-5-2022,9-6-2021
+NL657414,Uitvoer,Toestemming,NLD,DUI,lithium batterijen,niet ingedeeld,A1170,20 01 33*,R4,50,25,1-4-2021,31-3-2022,6-5-2021
+NL657415,Uitvoer,Toestemming,NLD,DUI,lithium thionylchloride batterijen,niet ingedeeld,A1170,16 02 15*,R4,20,15,1-4-2021,31-3-2022,28-4-2021
+NL623938,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,"R12, R4",5000,350,4-6-2021,3-6-2022,15-4-2021
+NL700806,Uitvoer,Toestemming,NLD,DUI,"Waste, used lithium (-ion) batteries",niet ingedeeld,A1170,20 01 33*,"R4, R12",300,20,1-1-2021,31-12-2021,15-4-2021
+NL701640,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,10000,400,1-3-2021,28-2-2022,26-2-2021
+NL701048,Uitvoer,Toestemming,NLD,DUI,lithium-ion batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R12",180,25,1-11-2020,31-10-2021,12-2-2021
+NL700980,Uitvoer,Toestemming,NLD,DUI,lithium-ion batterijen,niet ingedeeld,A1170,20 01 33*,"R12, R4",100,15,1-2-2021,31-1-2022,22-1-2021
+NL677250,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,15000,780,1-3-2021,28-2-2022,20-1-2021
+NL700810,Uitvoer,Toestemming,NLD,DUI,Lithium-ion batterijen,niet ingedeeld,A1170,16 06 05,"R4, R12",2000,100,1-1-2021,31-12-2021,30-12-2020
+NL700561,Uitvoer,Toestemming,NLD,DUI,Lithium-ion batterijen,niet ingedeeld,A1170,20 01 33*,"R4, R12",1500,100,1-5-2020,30-4-2021,26-12-2020
+NL677247,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,5000,275,1-2-2021,31-1-2022,26-11-2020
+NL700765,Uitvoer,Toestemming,NLD,DUI,Li-Ion batterijen (uit elektronische apparatuur ),niet ingedeeld,A1170,20 01 33*,"R4, R13",1000,100,1-11-2020,31-10-2021,6-11-2020
+NL623936,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,5000,350,1-9-2020,31-8-2021,29-10-2020
+NL677251,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,7000,420,1-2-2021,31-1-2022,29-10-2020
+NL623935,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,20000,1000,1-11-2020,31-10-2021,10-9-2020
+NL677241,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,6000,330,1-6-2020,31-5-2023,8-9-2020
+NL661914,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,2000,100,1-6-2020,31-5-2021,20-8-2020
+NL700773,Uitvoer,Toestemming,NLD,DUI,"Li-ion batterijen, gesorteerd, verpakt in vaten.",niet ingedeeld,niet ingedeeld,"16 06 05, 20 01 33*","R4, R13",1000,100,1-7-2020,30-6-2021,20-7-2020
+NL623934,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,"R12, R4",5000,350,4-6-2020,3-6-2021,17-6-2020
+NL660847,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,10000,400,1-3-2020,28-2-2021,20-5-2020
+NL700194,Uitvoer,Toestemming,NLD,DUI,lithium-ion-accu's,niet ingedeeld,A1170,"20 01 33*, 20 01 33*","R12, R4",100,10,1-3-2020,28-2-2021,20-5-2020
+NL692200,Uitvoer,Toestemming,NLD,DUI,lithium-ion-accu,niet ingedeeld,A1170,16 01 21*,R4,300,40,1-5-2020,30-4-2023,18-5-2020
+NL677236,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,"R12, R4",4000,220,1-5-2020,30-4-2023,29-4-2020
+NL660846,Uitvoer,Toestemming,NLD,DUI,gebruikte lithiumbatterijen,niet ingedeeld,A1170,20 01 33*,"R12, R4",1000,50,1-1-2020,31-12-2020,2-4-2020
+NL660845,Uitvoer,Toestemming,NLD,DUI,gebruikte lithium-ionbatterijen,niet ingedeeld,A1170,20 01 33*,"R12, R4",2000,100,1-1-2020,31-12-2020,10-3-2020
+NL623932,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,6000,350,1-1-2020,31-12-2020,18-2-2020
+NL677233,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,7000,420,1-2-2020,31-1-2021,20-1-2020
+NL606387,Uitvoer,Toestemming,NLD,DUI,lithium-ionbatterijen,niet ingedeeld,A1170,"16 06 05, 20 01 33*","R12, R4",100,15,1-2-2020,31-1-2021,15-1-2020
+NL657623,Uitvoer,Toestemming,NLD,DUI,li-ion batterijen,niet ingedeeld,"A1180, A1170",16 06 05,R4,20,10,1-10-2019,30-9-2020,17-12-2019
+NL623931,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,20000,1000,1-11-2019,31-10-2020,5-11-2019
+NL677231,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,5000,275,1-2-2020,31-1-2021,5-11-2019
+NL677232,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,15000,780,1-3-2020,28-2-2021,21-10-2019
+NL623930,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,5000,350,1-9-2019,31-8-2020,1-10-2019
+NL657614,Uitvoer,Toestemming,NLD,DUI,lithium batterijen,niet ingedeeld,A1170,"16 06 05, 16 01 21*, 16 02 15*",R4,20,10,1-12-2019,30-11-2020,19-8-2019
+NL623929,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,"R12, R4",5000,350,4-6-2019,3-6-2020,17-7-2019
+NL660831,Uitvoer,Toestemming,NLD,DUI,kwikhoudende batterijen,niet ingedeeld,A1170,16 06 03*,R4,150,10,1-6-2019,31-5-2022,1-7-2019
+NL661910,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,2000,100,1-6-2019,31-5-2020,22-5-2019
+NL606341,Uitvoer,Toestemming,NLD,DUI,lithium-ion batterijen,niet ingedeeld,A1170,16 06 05,"R12, R4",100,15,1-2-2019,31-1-2020,29-1-2019
+NL657756,Uitvoer,Toestemming,NLD,DUI,li-ion batterijen,niet ingedeeld,A1170,16 06 05,R4,20,10,1-12-2018,30-11-2019,15-1-2019
+NL677215,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,5000,275,1-2-2019,31-1-2020,14-1-2019
+NL677216,Uitvoer,Toestemming,NLD,DUI,Loodaccu's,niet ingedeeld,A1160,16 06 01*,R4,15.000,780,1-3-2019,29-2-2020,14-1-2019
+NL660824,Uitvoer,Toestemming,NLD,DUI,gebruikte nikkel-cadmium batterijen,niet ingedeeld,A1170,16 06 02*,R4,1500,75,1-1-2019,31-12-2021,8-1-2019
