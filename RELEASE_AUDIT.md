@@ -1,6 +1,6 @@
 # Public release audit — 5 October 2026
 
-This is a locally verified GitHub/Zenodo **release candidate**, not a claimed external deposition. On 6 October 2026, the owner declared **junjiezhang** as the sole real human contributor; that exact undivided name is used throughout attribution metadata. The actual repository URL and archival DOI remain unknown and are not invented. The owner will verify the public record and personally perform the Zenodo connection. This attribution update does not change the 5 October scientific/source verification described below.
+This records the local verification of a GitHub/Zenodo **release candidate**, not a Zenodo deposition. On 6 October 2026, the owner declared **junjiezhang** as the sole real human contributor. The source collection was subsequently uploaded to https://github.com/williamjay1/project19-battery-waste-inputs; the actual URL is now recorded. No tag, Release or archival DOI exists. The owner will personally perform the Zenodo connection. The local candidate/fresh archive both passed 78 tests and all 34 CSV replay checks before upload; source science verification below remains the 5 October record, not new physical evidence.
 
 ## Executed checks
 
@@ -19,4 +19,4 @@ Machine-readable per-file inventory is `release_manifest.json`; source/replay fi
 
 Basel raw/reconstructed and Basel-derived numerical/display files are withheld conservatively. Eurostat retains the Austria-declared CN8 commercial-use exception. UBA extracts are changed numeric data with source credit; ILT extracts contain no retained names, contacts or addresses. Original software is MIT; vendor files retain Apache/MIT notices. No package-wide unrestricted data licence is claimed.
 
-No source science result, main manuscript text, scientific claim or approved PDF changed for this release. The public collection excludes old LP projects and internal peer-review/decision files. Reviewer anonymity and genuine authorship/conflict/funding declarations remain the authors' submission responsibilities. No GitHub push, Zenodo API operation, DOI reservation, account login or information-access request is performed.
+No source science result, main manuscript text, scientific claim or approved PDF changed for this source upload. The public collection excludes old LP projects and internal peer-review/decision files. Reviewer anonymity and genuine authorship/conflict/funding declarations remain the author's submission responsibilities. GitHub upload was authorised by the user and completed using the existing authenticated CLI session. No Zenodo API operation, DOI reservation or information-access request was performed. Analysis/replay scripts do not upload data or operate accounts.

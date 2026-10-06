@@ -12,6 +12,8 @@
   "repository_url": "https://github.com/williamjay1/project19-battery-waste-inputs",
   "actual_release_date": null,
   "citation_format": "CITATION.md and .zenodo.json; CFF personal-name fields not guessed",
-  "repository_state": "Source-snapshot preparation; not a tagged release or DOI deposit. Confirm uploaded commit in GitHub history.",
+  "repository_state": "Public source snapshot uploaded and confirmed through GitHub API; not a tagged release or DOI deposit.",
+  "github_source_upload_verified": true,
+  "uploaded_scientific_source_commit": "4122192e39fde7b9276df8a18c10917ee41bafa9",
   "next_action": "Owner personally connects Zenodo before a formal tagged release; verify the archived version DOI before updating the article"
 }

@@ -7,6 +7,11 @@ Sole user-declared real human contributor: **junjiezhang**. The hosting account
 institution, ORCID, contribution role or additional human author is inferred.
 AI assistance remains disclosed in AI_USE.md; source/tool credit is separate.
 
+The source snapshot was uploaded on 6 October 2026; GitHub API confirmed source
+commit `4122192e39fde7b9276df8a18c10917ee41bafa9` with author name **junjiezhang**.
+Subsequent publication-status documentation does not change code/data. Use GitHub
+history for the latest documentation commit; no tag or Release has been created.
+
 This checkout is prepared from the independently tested 6 October 2026 curated
 candidate. Its code, all 32 source-qualified CSVs and scientific fingerprints are
 unchanged. Only actual repository metadata, citation/publication notes and Git

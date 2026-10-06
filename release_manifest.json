@@ -58,8 +58,8 @@
     },
     {
       "path": "GITHUB_PUBLICATION.md",
-      "bytes": 1600,
-      "sha256": "8a7a275c5f246144b98e30f9fdfa17edea125bb17da303d2a37e11f017265017",
+      "bytes": 1928,
+      "sha256": "6f3f5f9e29093ab433d443595b8c83cfca6790d750874c0f346606611ebb2dac",
       "license_class": "original_software_MIT"
     },
     {
@@ -76,14 +76,14 @@
     },
     {
       "path": "RELEASE_AUDIT.md",
-      "sha256": "30a1aa8aa95b1a3b2572a306787d0baf7ed82412b58493bb79253f3ba206d725",
-      "bytes": 3432,
+      "sha256": "d8cd4a24857ca197a1806e6edfbaeec3257c69eae1c7b3c04e930d931f81dd00",
+      "bytes": 3678,
       "license_class": "original_software_MIT"
     },
     {
       "path": "RELEASE_METADATA_STATUS.json",
-      "sha256": "02ea7cbb19a4caec6a6d0cdc2703a72071d3e878a36d553460c30108554b93e6",
-      "bytes": 806,
+      "sha256": "dfb6fc5b4aa38665f326d5f91b996a76d147c9022a704fdc7180a7326213ca69",
+      "bytes": 924,
       "license_class": "original_software_MIT"
     },
     {
@@ -106,8 +106,8 @@
     },
     {
       "path": "ZENODO_HANDOFF_CN.md",
-      "sha256": "57ec6bab7a62710ec84cb0b3ff0a42bbb55728110ab7b9df3769891e76593733",
-      "bytes": 5302,
+      "sha256": "d4967e22cece32d0f3c66b89c509e0f8502803fb436d55e360d5bd48184cab4b",
+      "bytes": 5413,
       "license_class": "original_software_MIT"
     },
     {
@@ -1049,7 +1049,7 @@
   "excluded": "Basel raw and all Basel-derived result/display data; all raw reports/ODS, manuscripts/PDFs, private logs, credentials, fonts and old archives",
   "public_metadata_pending": "formal tagged release and actual Zenodo version DOI only; creator and repository recorded",
   "source_permissions": "mixed; software MIT does not license data",
-  "prior_candidate_manifest_sha256": "c28639dd8e4dad65e71e22b34772f7f17e7355208ac75f6851aac104b7fe560c",
-  "upload_preparation_utc": "2026-10-06T06:29:52.862887+00:00",
+  "prior_candidate_manifest_sha256": "2b6ed891f467398a57858c9316b6607a31bf4ddfd5e5a2537fd8a5b2e5c8a810",
+  "upload_preparation_utc": "2026-10-06T06:32:07.334858+00:00",
   "repository_url": "https://github.com/williamjay1/project19-battery-waste-inputs"
 }
